@@ -1,0 +1,29 @@
+{
+  "name": "dig4503-spring2021",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "follow-redirects": "^1.13.2",
+    "has-flag": "^4.0.0",
+    "supports-color": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/omontel1/DIG4503-Spring2021.git"
+  },
+  "author": "Omar Montelongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omontel1/DIG4503-Spring2021/issues"
+  },
+  "homepage": "https://github.com/omontel1/DIG4503-Spring2021#readme"
+}
