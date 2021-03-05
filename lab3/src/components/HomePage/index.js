@@ -1,16 +1,11 @@
 import React from 'react';
 
-class App extends React.Component {
-  constructor(props) {
- 
-    super(props);
-  }
-
-  render () {
+class HomePage extends React.Component {
+  render() {
     return (
-      <p>{this.props.attr}</p>
+        <p>{this.props.firstName}</p>
     );
   }
 }
 
-export default App;
+export default HomePage;
