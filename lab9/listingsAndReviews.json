@@ -1,0 +1,3821 @@
+[{
+  "_id": "12762087",
+  "listing_url": "https://www.airbnb.com/rooms/12762087",
+  "name": "Casa S. Miguel 6 - The Yellow House",
+  "summary": "The S. Miguel 6 House is a traditional Porto's building located in the UNESCO World Heritage area, surrounded by a charismatic and authentic atmosphere, open the window and breathe the soul of Porto! N. Registo 27164/AL. Near Station Sao Bento Cleaning fees included in the price.",
+  "space": "The ideal place to stay with family, friends or on businesses, can accommodate up to 8 guests. The house  has been refurbished and furnished recently, preserving its old character and adding the quality of nowadays comfort. Free Wifi, 130 TV channels, sound system, board games (cards, chess, draughts, mikado, domino) and books are available. Bed linen, bath towels, beach towels hair dryer and straighteners. The bathroom shower gel, shampoo and toilet paper will be provided.  Kitchen: hob, oven, extractor, microwave, toaster, coffee machine, kettle, fridge/freezer, washing and dryer machines, iron and iron board, stick blender set, vacuum cleaner, cutlery, glassware, complete kitchen ware and cleaning products are available. Baby eating chair and baby cot are available. The house is comprised of three floors: - Ground floor: Entrance with a spacious open living room, kitchen and dining space; - First floor: small living room with sofa bed and access to balcony + double bedroom with acce",
+  "description": "The S. Miguel 6 House is a traditional Porto's building located in the UNESCO World Heritage area, surrounded by a charismatic and authentic atmosphere, open the window and breathe the soul of Porto! N. Registo 27164/AL. Near Station Sao Bento Cleaning fees included in the price. The ideal place to stay with family, friends or on businesses, can accommodate up to 8 guests. The house  has been refurbished and furnished recently, preserving its old character and adding the quality of nowadays comfort. Free Wifi, 130 TV channels, sound system, board games (cards, chess, draughts, mikado, domino) and books are available. Bed linen, bath towels, beach towels hair dryer and straighteners. The bathroom shower gel, shampoo and toilet paper will be provided.  Kitchen: hob, oven, extractor, microwave, toaster, coffee machine, kettle, fridge/freezer, washing and dryer machines, iron and iron board, stick blender set, vacuum cleaner, cutlery, glassware, complete kitchen ware and cleaning products ",
+  "neighborhood_overview": "The S. Miguel 6 house is located in the heart of the historical Porto's area, just 5 minute walk from \"Torre dos Clerigos\"  This house is located in a privileged and quiet location with access to the fantastic view of the city and Douro river from the \"Miradouro  da Vitoria\"  across the street.  The \"Mosteiro de S. Bento da Vitoria\" is a minute walk away. The vibrant Porto's night life is just 5 minute walk way. Come discover Porto and feel at home!",
+  "notes": "Pets are welcome, but an additional cleaning fee of 40 euros per stay will apply.",
+  "transit": "Nearest train station:  By subway - Stop SÃO BENTO - about 700m - 10 min walk.  By train - Stop SÃO BENTO - about 700m - 10 min walk. If you are carrying heavy and bulky luggage is recommended to take a taxi from the airport. If you arrive by car please note that there is free public car park spaces on the street, first come first serve basis. Alternatively there are also paid car park spaces near by.",
+  "access": "Access to the entire house. You will have the entire house and privacy during your stay.",
+  "interaction": "I am always available to respond to any queries, and of course to greet you at your arrival.",
+  "house_rules": "Please don´t smoke indoors; please use the balconies. Our community is very quiet, please respect our neighbor's. Please leave the house as you found it: take the waste out, turn all lights and heating off and close the windows. At your arrival I will require to see your passport, in order to complete the Portuguese Immigration and Borders Service (SEF) form. This is a legal requirement to those who provide the accommodation to guests, including nationals of other member states of the European Union. Please note that check in and check out times are flexible, please let me know in advance the estimate time of your arrival and departure.",
+  "property_type": "Townhouse",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "90",
+  "cancellation_policy": "moderate",
+  "last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2016-05-16T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-10-30T04:00:00Z"
+  },
+  "accommodates": 8,
+  "bedrooms": 3,
+  "beds": 5,
+  "number_of_reviews": 58,
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Kitchen",
+    "Smoking allowed",
+    "Pets allowed",
+    "Free street parking",
+    "Heating",
+    "Family/kid friendly",
+    "Suitable for events",
+    "Washer",
+    "Dryer",
+    "Smoke detector",
+    "Carbon monoxide detector",
+    "First aid kit",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Self check-in",
+    "Keypad",
+    "Private living room",
+    "Private entrance",
+    "Bathtub",
+    "High chair",
+    "Crib",
+    "Pack ’n Play/travel crib",
+    "Room-darkening shades",
+    "Children’s dinnerware",
+    "Hot water",
+    "Bed linens",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "Patio or balcony",
+    "Beach essentials",
+    "Luggage dropoff allowed",
+    "Long term stays allowed",
+    "Cleaning before checkout"
+  ],
+  "price": {
+    "$numberDecimal": "150.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "0.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "0.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "25.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "4"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/30f78374-6b25-40a8-a3dc-9cc01e81b77a.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "69426488",
+    "host_url": "https://www.airbnb.com/users/show/69426488",
+    "host_name": "Ana",
+    "host_location": "Porto, Porto District, Portugal",
+    "host_about": "Hello, I am Ana, I enjoy travelling and meeting new people. \r\nI have a passion for old buildings, love to refurbish them and bring them back to peoples life. The house in Porto is located in the Old Town Centre and Porto is a fantastic city with plenty to do and see. \r\nThe house in Figueira da Foz is also located in the Old Town Centre close to all amenities. Figueira is in the Centre of Portugal and offers sandy beaches, a Casino and events all year round! \r\n",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/72bbe2b4-0499-4b57-bc5f-e37d416baee0.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/72bbe2b4-0499-4b57-bc5f-e37d416baee0.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": 100,
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 2,
+    "host_total_listings_count": 2,
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "government_id"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.61492,
+        41.14228
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": 22,
+    "availability_60": 45,
+    "availability_90": 67,
+    "availability_365": 310
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 99
+  },
+  "reviews": [
+    {
+      "_id": "74815309",
+      "date": {
+        "$date": "2016-05-16T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "22438537",
+      "reviewer_name": "Ignacio",
+      "comments": "Pasamos cuatro días estupendos en Oporto y ya con ganas de volver.\nLa casa está muy bien situada en la zona histórica de la ciudad y permite hacer las visitas a la mayoría de los sitios turísticos andando.\nEs una casa muy bien rehabilitada en un edificio antiguo y tuvimos la suerte de ser los primeros en disfrutarla. \nLa atención de Ana es excelente y la respuesta a las cuestiones previas que le planteamos antes del viaje fue muy rápida, casi inmediata, y con mucha información útil para la estancia.\nNo nos queda más que agradecer su hospitalidad y esperar que no esté alquilada para cuando nos decidamos a volver."
+    },
+    {
+      "_id": "76726596",
+      "date": {
+        "$date": "2016-05-29T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "66471164",
+      "reviewer_name": "Kathleen",
+      "comments": "Ana was a wonderful and gracious host. She was always accessible, punctual and welcoming. The apartment was truly incredible and just as pictured in the Airbnb description with plenty of space for everyone. The apartment is in a fantastic location, right down the street from the Torre dos Clerigos which means that all of Porto's major sights are within walking distance. The only tricky part is finding parking near the house if you drove a car to Porto. Would highly recommend to anyone visiting Porto."
+    },
+    {
+      "_id": "80019862",
+      "date": {
+        "$date": "2016-06-15T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "17313913",
+      "reviewer_name": "Ariane",
+      "comments": "Ana has been really helpful and welcoming. She even got us some special things as we were travelling with our 2 little girls.\r\nShe answered to our \"request\" immediately with extreme efficiency....like I rarely have seen before.\r\n(For example, she changed the microwave in only a few hours after we mentioned her it was not working).\r\nThe apartment is in a perfect location, just a few step from one of the best view of Porto and Gaia. \r\nThere was parking in the streets.\r\nWe had everything needed and expected.\r\nAna, thanks again for everything.\r\nWe l (Phone number hidden by Airbnb) ed Porto and really annoyed our stay at your place!\r\n"
+    },
+    {
+      "_id": "80955579",
+      "date": {
+        "$date": "2016-06-20T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "18305505",
+      "reviewer_name": "Alexandra",
+      "comments": "Ana's house was vey nice. A lot of space, very well equiped, with modern furniture and really close to the center. I reccomend it !"
+    },
+    {
+      "_id": "90525657",
+      "date": {
+        "$date": "2016-08-01T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "17823186",
+      "reviewer_name": "Danny",
+      "comments": "A perfect place for our large group and a lovely view at your doorstep and from your balcony. Communication was easy and beyond accommodating. We had a lovely time."
+    },
+    {
+      "_id": "94569071",
+      "date": {
+        "$date": "2016-08-16T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "71125182",
+      "reviewer_name": "Emilio",
+      "comments": "Todo genial. Ana es super amable: nos facilitó información sobre Oporto, aparcamiento y demás antes de llegar; nos vino a buscar a una plaza cercana para conducirnos hasta la casa (el navegador del coche nos dio algún problemilla..); nos explicó todo sobre la casa y  nos dio información sobre restaurantes.\r\nLa casa está muy bien para 8 personas, toda reformada, muy cómoda y todo muy limpio. Los chicos disfrutaron mucho de la sala del sótano con los puffs dejándonos a los padres algo de tiempo de relax... La casa está muy bien ubicada, a 50 mts del Mirador Da Vitória (con unas vistas preciosas de la ciudad y del río) y  a menos de 5 minutos de la Torre de los Clérigos donde hay autobuses urbanos y turísticos además de un pequeño centro comercial con algunos restaurantes y bares de copas.\r\nEn general es una casa perfecta que recomendamos a quien quiera disfrutar de Oporto estando en el centro de casi todo  ¡¡¡Muchísimas gracias por todo, Ana!!!  Si volvemos a Oporto, repetiremos en tu preciosa casa.  Un abrazo,"
+    },
+    {
+      "_id": "96488814",
+      "date": {
+        "$date": "2016-08-23T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "5667482",
+      "reviewer_name": "Fernanda",
+      "comments": "Ana e seu marido foram extremamente receptivos. Estavam na casa na hora que chegamos e nos receberam muito bem. Nos ajudaram a estacionar o carro, com as malas, nos falaram sobre o Porto e deram dicas sobre a região. \r\nA casa é uma delicia, super bem equipada, muito bem localizada e com quartos amplos e banheiros excelentes."
+    },
+    {
+      "_id": "97688687",
+      "date": {
+        "$date": "2016-08-28T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "13444368",
+      "reviewer_name": "Killian",
+      "comments": "Even though we were a little late, Ana gave us a very warm welcome, made us feel at home right away and even helped us with parking our car. The house was clean, spacious, comfortable and had everything we required. The location was fantastic. Would definitely recommend. Thank you Ana! :)\r\n"
+    },
+    {
+      "_id": "103022715",
+      "date": {
+        "$date": "2016-09-20T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "57552105",
+      "reviewer_name": "Ron",
+      "comments": "Het huis was exact zoals beschreven; ruim, schoon en gezellig ingericht.\r\nDe ligging in het centrum is perfect. Echt een goede uitvalsbasis voor het bezoeken van de stad. een echt buiten terras is er niet maar door de ligging is er altijd een terras dicht in de buurt.\r\nKortom; een aanrader."
+    },
+    {
+      "_id": "108234537",
+      "date": {
+        "$date": "2016-10-15T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "91829253",
+      "reviewer_name": "Yves",
+      "comments": "Ancienne maison typique, totalement rénovée et très bien située, à proximité à pied de tous les points importants à visiter dans le vieux Porto. Proche des transports publics. Quartier calme. Ana a été aux petits soins pour nous rendre le séjour agréable. La maison est équipée de tout ce qui est nécessaire. Excellente literie. A recommander sans aucune hésitation"
+    },
+    {
+      "_id": "111667068",
+      "date": {
+        "$date": "2016-11-01T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "38258101",
+      "reviewer_name": "Pepe",
+      "comments": " la característica fundamental de este alojamiento es su situación. Por otro lado la dueña tiene buen gusto y está bien  amueblado y tiene unas camas estupendas. Únicamente decir que la gente se pone hablar en la calle delante del edificio y eso si hay un montón . L comunicación con la dueña es fácil y cómoda \r\n"
+    },
+    {
+      "_id": "115916391",
+      "date": {
+        "$date": "2016-11-27T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "24107611",
+      "reviewer_name": "Klaus",
+      "comments": "Staying at Ana`s place was one of our best experiences. Starting with the excellent communication with Ana and her very beautiful apartment. Ana`s apt is exactly as in the photos, modern, clean, comfy and with all the necessary items for our stay. Everything was first class. Thank you for a fantastic weekend in Porto"
+    },
+    {
+      "_id": "128265906",
+      "date": {
+        "$date": "2017-01-23T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "99236335",
+      "reviewer_name": "Sarah",
+      "comments": "The apartment is in a wonderful location within super easy walking distance of all of the wonderful treasures of Porto.  We easily walked to the Tower and all of the churches and walked along the river.  There are so many amazing, local restaurants right in the neighborhood, and the coffee shop that is only 50 feet from the apartment was amazing with incredibly friendly owners and great food and coffee.  The weather during our visit was unseasonably cold for Portugal, so the apartment was a bit chilly, but we can't wait to visit again when it is warmer.  The neighborhood is lively and you can hear the cars and people outside the apartment, but it was not a problem for us.  Our host was incredibly helpful!  She introduced us to the owners of the coffee shop and arranged for our very early cab back to the airport.  We loved Porto and would definitely use this apartment if we go back.  "
+    },
+    {
+      "_id": "129136388",
+      "date": {
+        "$date": "2017-01-29T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "22275295",
+      "reviewer_name": "David",
+      "comments": "Everything perfect! Charming old house with 4 bedrooms and located very well!"
+    },
+    {
+      "_id": "133244778",
+      "date": {
+        "$date": "2017-02-21T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "2771217",
+      "reviewer_name": "Renato",
+      "comments": "Adoramos a estadia nessa casa bicentenária, mas que foi completamente renovada e modernizada. A Ana foi uma anfitriã fantástica nos deixando muito a vontade e com flexibilidade para nos atender  O local é excelente na região histórica e a poucos minutos da Ribeira e de todas as atrações. Recomendamos fortemente. "
+    },
+    {
+      "_id": "143334460",
+      "date": {
+        "$date": "2017-04-11T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "28133668",
+      "reviewer_name": "Ana",
+      "comments": "This house is perfectly located next to everything. It accommodated all of us perfectly. \nAna introduced us to Fernando who owns the little shop on the next street and it was amazing. Fernando brought us breakfast every morning, he was so sweet. \nThe only thing we did not like was the bathrooms. Wish they were a little cleaner."
+    },
+    {
+      "_id": "147902370",
+      "date": {
+        "$date": "2017-04-29T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "35205913",
+      "reviewer_name": "Jérôme",
+      "comments": "maison très agréable dans un quartier bien situé par rapport aux points intéressants à voir à Porto.\nTrès belle vue de Porto depuis la terrasse publique à 20 m de la maison.\nAna nous a très bien accueilli et conseillé pour le séjour.\nNous conseillons cette maison pour les familles voulant profiter de Porto dans les meilleures conditions."
+    },
+    {
+      "_id": "158802353",
+      "date": {
+        "$date": "2017-06-08T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "6147571",
+      "reviewer_name": "Renata",
+      "comments": "Adoramos a estadia na casa de Ana. Tudo é exatamente como nas fotos: bem equipado, limpo e organizado. Perfeito para grupos grandes. As histórias sobre a região onde a casa está são fantásticas. A localização é perfeita para se locomover pela cidade com facilidade. Muito comércio no entorno, mas bem tranquilo para dormir. A vista do miradouro na mesma rua é incrível. Ana é extremamente receptiva e sempre disposta a ajudar seus hóspedes, como muitos outros moradores de Porto. A cidade é encantadora e acolhedora. Foi uma agradável surpresa em nossa (Website hidden by Airbnb) certeza voltaremos! Um bônus: o café do Senhor Fernando, há alguns metros (que ficou nos esperando com as chaves, pois fizemos o check in bem tarde). Tudo muito gostoso feito por uma família simpática. Recomendamos fortemente a cidade e a casa de Ana!"
+    },
+    {
+      "_id": "159436783",
+      "date": {
+        "$date": "2017-06-11T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "444323",
+      "reviewer_name": "Ana",
+      "comments": "Casa incrível situada no coração da cidade do Porto, muito bem localizada, limpa, acolhedora. A Ana foi sempre muito acessível e disponível para ajudar em qualquer uma das necessidades. Voltaremos com toda a certeza."
+    },
+    {
+      "_id": "162086546",
+      "date": {
+        "$date": "2017-06-19T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "24876277",
+      "reviewer_name": "Cynthia",
+      "comments": "We had an excellent stay in Porto and Ana was the most gracious and helpful host. The townhouse was well-equipped and comfortable. The location was central to all of the sites in Porto, which was great. The townhouse is located at the top of the hill, so we also got a great workout. We were worried that the townhouse did not have air conditioning, but the stone walls kept the place at a comfortable temperature. This place is great for a group and I highly recommend it! "
+    },
+    {
+      "_id": "170030927",
+      "date": {
+        "$date": "2017-07-14T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "57829856",
+      "reviewer_name": "Sue",
+      "comments": "My family of 4 loved staying at Ana's apartment. It was clean, very comfortable, nicely decorated and in an excellent location, close to restaurants and tourist attractions. Ana was a fabulous and helpful host. Would highly recommend Ana's apartment."
+    },
+    {
+      "_id": "174822366",
+      "date": {
+        "$date": "2017-07-27T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "82537679",
+      "reviewer_name": "Antonio",
+      "comments": "The house is full of character, has lovely rooms with nice beds and pillows. It was very clean indeed. Location is very close to historical center, nightlife and restaurants. Round the corner there's is a small shop which Ana recommended in case you want breakfast or food brought in, Just go in and order with Fernando.\nAna has a great smile and she was a great host in all aspects from time of booking to our check out, and her friendliness made us feel very welcomed. \nAna also helped us by allowing us a place to leave luggage until we were ready to go to airport, giving us the benefit of enjoying another lovely meal round porto center.\nI highly recommend this place and Ana as a host. Hope we come back soon.\nThank you very much"
+    },
+    {
+      "_id": "176041141",
+      "date": {
+        "$date": "2017-07-30T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "17329963",
+      "reviewer_name": "Ujjwal",
+      "comments": "Beautiful town house in an old neighbourhood of Porto, very close to the Torre dos Clérigos. The house was exactly as advertised, and fit us(two families of four each) very well. Ana welcomed us with some wine and beer in the fridge, which was very welcome on a  a warm day. She also introduced us to Fernando at the corner store, who brought us breakfast in the morning!  All in all  a very pleasant stay that I'd recommend to anyone. "
+    },
+    {
+      "_id": "180125417",
+      "date": {
+        "$date": "2017-08-09T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "53500864",
+      "reviewer_name": "Eva",
+      "comments": "Our family had such a wonderful stay at this apartment! In the old, historical neighborhood, everything was walking distance with excellent sites to visit, restos, cafes and shops. The apartment was very clean with more amenities than we expected, and the beds very comfortable. I will recommend this place to all my friends and we will definitely come back the next time we're in Porto!"
+    },
+    {
+      "_id": "185699675",
+      "date": {
+        "$date": "2017-08-22T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "144138154",
+      "reviewer_name": "Susana",
+      "comments": "El viaje ha sido fabuloso. La ubicación inmejorable, al igual que la casa.\nLa casa es exactamente igual que las fotos o incluso mejor. Y bueno, Ana un amor. Se puede contar con ella en todo momento y te da todas las facilidades que puede. 100% recomendable y muy agradecidos!"
+    },
+    {
+      "_id": "188080070",
+      "date": {
+        "$date": "2017-08-28T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "55418840",
+      "reviewer_name": "Andrew",
+      "comments": "A truly exceptional home in a great location situated in the heart of the old town. Everything easily accessible on foot. Couldn't ask for better. Ana was a delightful host and even took the time to show my wife around the local restaurants and supermarket and introduce her. A very helpful and kind touch. \n\nThe house is well laid out (3 floors), clean and contains everything you need. It was all just perfect, even down to the SuperBock beers she had ready chilled in the fridge. She obviously has a sixth sense !!\n\nA very strong recommendation from all of my family for a successful stay in the beautiful city of Porto."
+    },
+    {
+      "_id": "190407614",
+      "date": {
+        "$date": "2017-09-04T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "114993114",
+      "reviewer_name": "Jason",
+      "comments": "We really enjoyed our stay at Ana's rental is Porto. The property is located within the old part of the city and everything is within close walking distance. \n\nThe rental has 3 good sized bedrooms and good living space. The space was more than enough for our teenage children and us. The kitchen is stocked with the basics needed for self catering.   \n\nAna was an excellent host and was really flexible with check in and check out as the next guests weren't arriving immediately. Ana made us feel very welcome, explained all of the essentials and gave us some local tips on places to eat. \n\nWe would highly recommend this property for anyone wishing to explore Porto. It would suit families or friends alike."
+    },
+    {
+      "_id": "192885927",
+      "date": {
+        "$date": "2017-09-11T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "105375177",
+      "reviewer_name": "Karine",
+      "comments": "Excelente moradia. Tudo limpo, em perfeito estado. Ideal para famílias."
+    },
+    {
+      "_id": "194179164",
+      "date": {
+        "$date": "2017-09-16T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "4618828",
+      "reviewer_name": "Mark",
+      "comments": "Fantastic location, as good as it gets for Port.  lovely clean 3 bedroom with lots of space. washer/dryer came in handy as well.\nLoved it!"
+    },
+    {
+      "_id": "195958087",
+      "date": {
+        "$date": "2017-09-21T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "33400759",
+      "reviewer_name": "Kathy",
+      "comments": "This apartment was wonderful for our stay in Porto.  We were a family of five adults.  The bedrooms accommodated us well, and were comfortable.  We  enjoyed having a kitchen and living room in which to gather.  The apartment was stocked with all the basics you need, including a basic pantry for cooking, and coffee. The location was amazing.  Near the historical sites, convenient to Sao Bento train station, and just around the corner from an incredible view of Porto.  The walk to the Ribeira and Nova de Gaia was no problem for our family.  Ana was very accommodating with check-in and check-out, and arranged a taxi to the airport for our departure.  We definitely recommend this apartment for Porto!"
+    },
+    {
+      "_id": "201854080",
+      "date": {
+        "$date": "2017-10-09T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "8098467",
+      "reviewer_name": "Michela",
+      "comments": "Appartamento super confortevole, dotato di ogni cosa.Arredato con gusto e  con dei letti super. Dal balcone si gode una vista sul Douro e il ponte D Luis. Situato in una posizione strategica. In vicinanza anche un bar per fare una colazione tradizionale gestito e frequentato da persone gentilissime. \nUna bellissima esperienza in un luogo magnifico. Ringraziamo Ana per la sua simpatia e disponibilità nel farci un check in/out personalizzato."
+    },
+    {
+      "_id": "203560011",
+      "date": {
+        "$date": "2017-10-15T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "153012398",
+      "reviewer_name": "Marco",
+      "comments": "Alojamiento con mucho encanto en una localización perfecta para descubrir y disfrutar la ciudad. Ana nos ayudó en todo y nos dio muy buenas indicaciones para hacer de nuestra estancia una gran experiencia. Para repetir."
+    },
+    {
+      "_id": "207406013",
+      "date": {
+        "$date": "2017-10-29T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "35781269",
+      "reviewer_name": "Dr. Christian",
+      "comments": "Looking forward to our next stay :)"
+    },
+    {
+      "_id": "227559142",
+      "date": {
+        "$date": "2018-01-15T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "80414443",
+      "reviewer_name": "Tj",
+      "comments": "This place is spacious, centrally located, updated and well equipped.  Ana worked with us on our arrival time and was flexible when we arrived early. The location is fantastic and centrally located.  It's a short walk to many sites and only a few blocks from the hop on hop off bus.  Highly recommend!"
+    },
+    {
+      "_id": "235597696",
+      "date": {
+        "$date": "2018-02-17T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "21039770",
+      "reviewer_name": "Pedro",
+      "comments": "La mejor ubicación de Oporto. Casa con mucho encanto. Volveremos."
+    },
+    {
+      "_id": "240258329",
+      "date": {
+        "$date": "2018-03-04T05:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "102249333",
+      "reviewer_name": "Maria Jesus",
+      "comments": "Alojamiento ideal para familias o grupos de amigos. Situación inmejorable, en el centro del casco antiguo de Porto. La casa tiene todos los elementos necesarios para que la estancia sea muy agradable (Sería perfecta con un pequeño lavavajillas). Las camas son muy cómodas. La limpieza es buena y la calefacción eléctrica funciona muy bien. Ana nos dió algunas informaciones muy útiles sobre los servicios de la zona. Cuando volvamos a Porto no dudaremos en volver a \"The yellow house\". \nMuito obrigado. Saudações,\nMarije y familia(incluído Zazpi)"
+    },
+    {
+      "_id": "244685047",
+      "date": {
+        "$date": "2018-03-19T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "57609003",
+      "reviewer_name": "Alfredo",
+      "comments": "Muy buena opción para alojarse en Oporto a menos de 5 minutos de la Torre de los Clérigos, en pleno barrio judio. La casa tiene tres pisos con tres habitaciones dobles y dos baños."
+    },
+    {
+      "_id": "253896833",
+      "date": {
+        "$date": "2018-04-15T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "28979332",
+      "reviewer_name": "Corinne",
+      "comments": "L'appartement es très bien situé dans le centre historique, correspondant en tout point aux photos. Toute la literie est confortable et l'appartement était très propre. Ana est très accueillante et disponible, elle nous a aidé à trouver un restaurant à notre arrivée, faisant même la réservation pour nous. Nous le recommandons et y retournerons sans hésiter."
+    },
+    {
+      "_id": "258593754",
+      "date": {
+        "$date": "2018-04-29T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "82200501",
+      "reviewer_name": "Sandra",
+      "comments": "Fabulous location, authentic home in old town, with modern amenities and a friendly responsive host!  Would definitely stay here again."
+    },
+    {
+      "_id": "260320268",
+      "date": {
+        "$date": "2018-05-04T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "59579",
+      "reviewer_name": "Linda",
+      "comments": "Charming, well-equipped, very clean house on a lovely street in a great, central location.  Comfortable beds.  Three floors provide privacy and lots of space for families or groups of friends.  Host was responsive and kind.  Would absolutely stay here again!"
+    },
+    {
+      "_id": "263600455",
+      "date": {
+        "$date": "2018-05-12T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "79794843",
+      "reviewer_name": "Pierre",
+      "comments": "A great place for few days in Porto"
+    },
+    {
+      "_id": "264958931",
+      "date": {
+        "$date": "2018-05-15T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "54075707",
+      "reviewer_name": "Katherine",
+      "comments": "Perfect apartment for the 6 of us.  Very comfortable in a great location in Porto's historic Ribeira District.\nAna was very helpful.  We all very much enjoyed our stay in Porto.\nThank you!"
+    },
+    {
+      "_id": "268512200",
+      "date": {
+        "$date": "2018-05-25T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "6625413",
+      "reviewer_name": "Leslie",
+      "comments": "At Ana's place, one can expect a kind and responsive host. Her apartment is clean, spacious and adorable. It is in a great location for touring Porto. We were traveling as 5 adults. We had plenty of space, the sights were in walking distance. We all loved the apartment."
+    },
+    {
+      "_id": "269911757",
+      "date": {
+        "$date": "2018-05-28T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "8201968",
+      "reviewer_name": "Jason",
+      "comments": "Our stay here was lovely. The apartment was in a great location and our host was very accommodating."
+    },
+    {
+      "_id": "272398004",
+      "date": {
+        "$date": "2018-06-03T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "128825265",
+      "reviewer_name": "Olivia",
+      "comments": "Maison agréable et très bien située!"
+    },
+    {
+      "_id": "274852210",
+      "date": {
+        "$date": "2018-06-10T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "586909",
+      "reviewer_name": "Punky",
+      "comments": "Amazing place and host! The apartment is stylishly decorated and super clean. It is in very convenient and picturesque location - we couldn't have found a better place for our group of 6 people. The beds were all very comfortable and the house is equipped with all the necessities you will need. Ana was quick to respond on (Hidden by Airbnb) and airbnb messaging, and was very accommodating and flexible."
+    },
+    {
+      "_id": "276251364",
+      "date": {
+        "$date": "2018-06-13T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "34836638",
+      "reviewer_name": "Ann",
+      "comments": "Wonderful place to stay in Porto.  It was a perfect location and so stylish and comfortable.  Ana was there to great us.  Thank you!!!"
+    },
+    {
+      "_id": "281631781",
+      "date": {
+        "$date": "2018-06-25T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "139699808",
+      "reviewer_name": "Hartmut",
+      "comments": "Wir hatten eine wunderbare Zeit in Porto und in Ana's Haus. Das Haus ist tiptop sauber, sehr schön eingerichtet und mit mehr als nur dem Notwendigen ausgestattet (z.B. kleine Klimaanlagen in den Schlafzimmern, die wir aber gar nciht benötigt haben). Eine klare Empfehlung an alle, die mit einer Gruppe im Zentrum von Porto übernachten wollen.  Wir haben fast alle unsere Ziele zu Fuß erreicht, nur zum Strand haben wir den Bus genommen (ca. 15min Fahrt).  Unsere Gruppe hat sicher sehr wohl gefühlt und wir würden jederzeit wieder buchen. Wir wurden sehr herzlich empfangen und auch bei Fragen während unseres Aufenthalts war unsere Ansprechpartnerin immer zur Stelle. Sie hat uns zum Beispiel auch die Taxis für den Flughafentransfer vor dem Rückflug organisiert. Mit einem Wort: Superhost!"
+    },
+    {
+      "_id": "285312547",
+      "date": {
+        "$date": "2018-07-03T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "21935939",
+      "reviewer_name": "Igor",
+      "comments": "Great apartment! Spacious (three bedrooms, living room, dining room, two baths), with comfortable beds, clean and well stocked. Amazing central location in a renovated historic building, yet quiet at night. Quite a gem. Highly recommend!"
+    },
+    {
+      "_id": "295839741",
+      "date": {
+        "$date": "2018-07-24T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "162705554",
+      "reviewer_name": "Susan",
+      "comments": "If you're lucky enough to stay here, check out the historical context of surrounding buildings; enjoy the night time view from the third floor balcony of the river and monastery lit up; the viewpoint of the entire city from the churchyard park next door; the nearby restaurants and monuments. The location is superb. And the house, though 100's of years old is updated and comfortable. Watch out for mosquitoes, since there are no screens on the windows and lovely French doors."
+    },
+    {
+      "_id": "297725607",
+      "date": {
+        "$date": "2018-07-28T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "9626332",
+      "reviewer_name": "Alexander",
+      "comments": "Great location, you can walk to nearly every part of the city. Very friendly welcome "
+    },
+    {
+      "_id": "302182846",
+      "date": {
+        "$date": "2018-08-05T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "28270015",
+      "reviewer_name": "Anu",
+      "comments": "A wonderfull house at a perfect location, just walk to the riverside. The house is very clean and was perfect for 6 adults. "
+    },
+    {
+      "_id": "312449153",
+      "date": {
+        "$date": "2018-08-23T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "192274933",
+      "reviewer_name": "Philippe",
+      "comments": "Ana nous a permis d'arriver(beaucoup!) plus tôt dans la journée et de partir plus tard ce qui nous a fait gagner presque une journée suivant les horaires d'avion. De plus, elle s'est montrée réactive aux messages. La situation de la maison est idéale pour découvrir la ville (3' à pied de la Torre dos Clérigos). La literie est bonne et la rue est très calme la nuit (sauf les mouettes de grand matin mais cela fait partie du charme!). Des traces d'humidité sont visibles dans l'armoire de cuisine à droite de l'évier (rendant le grille-pain inutilisable) et la vaisselle méritait d'être relavée (locataires précédents?). Pour les amateurs de tapas, allez découvrir sur la place de la Torre dos Clérigos le BRICK CLERIGOS.   "
+    },
+    {
+      "_id": "314756481",
+      "date": {
+        "$date": "2018-08-27T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "49618409",
+      "reviewer_name": "Yolanda",
+      "comments": "Las valoraciones de la casa de Ana son muy acertadas, hemos estado muy a gusto, la situación es magnífica y ella encantadora. Sin duda la recomendamos!! "
+    },
+    {
+      "_id": "321381319",
+      "date": {
+        "$date": "2018-09-10T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "89175950",
+      "reviewer_name": "Carole",
+      "comments": "Helpful host. Nice, clean appartment, ideal for a family. Good location in the middle of the old town of porto. Thanks!"
+    },
+    {
+      "_id": "326376205",
+      "date": {
+        "$date": "2018-09-22T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "86799834",
+      "reviewer_name": "Win",
+      "comments": "Ana is an excellent host. Her apartment was sparkling clean, the bedding was very comfortable, and we didn't wish for anything more. We were 5 adults and would definitely recommend Ana's home."
+    },
+    {
+      "_id": "337121064",
+      "date": {
+        "$date": "2018-10-15T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "1177644",
+      "reviewer_name": "Kate",
+      "comments": "Fantastic apartment in an excellent location. Across 3 floors, loads of space and within (sometimes hilly!) walking distance to everywhere you’ll want to visit in Porto. Would definitely stay again!"
+    },
+    {
+      "_id": "343053670",
+      "date": {
+        "$date": "2018-10-30T04:00:00Z"
+      },
+      "listing_id": "12762087",
+      "reviewer_id": "213171689",
+      "reviewer_name": "Jennifer",
+      "comments": "Great place, excellent location, helpful host."
+    }
+  ]
+},{
+  "_id": "15177216",
+  "listing_url": "https://www.airbnb.com/rooms/15177216",
+  "name": "COPACABANA BEACH- REVEILLON -WI FI FREE -Cable TV",
+  "summary": "My space is in Copacabana Beach, 2 large bedrooms with WI FI AND TV A CABO IN THE ROOM AND IN THE ROOM, SUPER QUADRA of the beach - 100m, 8 min walk from the Metro, Taxis, Bus lines, Banks, Supermarkets. You will love my space for being IN THE QUADRA of the most famous beach in the world - Copacabana. My space is good for couples, business travelers and families (with and without children), groups that come to lectures and events. We make a contract for your safety!",
+  "space": "Certamente você tem Copacabana como opção por ser um dos lugares TOP de turismo do Mundo!! Em nosso espaço, você ficará confortavelmente instalado, com estrutura sensacional, na quadra principal de Copacabana - in Copacabana heart, ente Rua Siqueira Campos e Rua Figueiredo Magalhães",
+  "description": "My space is in Copacabana Beach, 2 large bedrooms with WI FI AND TV A CABO IN THE ROOM AND IN THE ROOM, SUPER QUADRA of the beach - 100m, 8 min walk from the Metro, Taxis, Bus lines, Banks, Supermarkets. You will love my space for being IN THE QUADRA of the most famous beach in the world - Copacabana. My space is good for couples, business travelers and families (with and without children), groups that come to lectures and events. We make a contract for your safety! METRÔ, BUS LINE, TAXIS",
+  "neighborhood_overview": "Copacabana é o coração do Rio de Janeiro, estamos NA quadra da praia, 100M DE distância e apenas 8 min a pé do metrô!! Dezenas de opções de restaurantes, comércio farto, bancos, farmácias e várias outras facilidades no mesmo quarteirão!",
+  "notes": "",
+  "transit": "METRÔ, BUS LINE, TAXIS",
+  "access": "Poderão acessar todo o imóvel, são 2 quartos que podem ou não ser interligados através de porta de correr com tranca. Ideal para 2 casais ou casais com filhos, que necessitam de quartos conjugados",
+  "interaction": "Posso lhe ajudar com troca de informações de lugares para visitar e curtir no Rio - tenho um roteiro montado para lhe enviar por email, se for de seu interesse!",
+  "house_rules": "- Visitas NÃO SÃO permitidas, fornecemos roupa de cama e banho, 1 vaga em GARAGEM COBERTA incluída, no mesmo prédio -Wi Fi e Tv a cabo -Infelizmente não temos como acomodar seu bichinho de estimação -Qualquer alteração na configuração e ocupação do imóvel - troca de hóspedes, hóspedes extras, entre outros, deverá ser previamente comunicada ao proprietário-sob pena de cancelamento da reserva",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "190",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-02-11T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-11T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2016-10-18T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-01-28T05:00:00Z"
+  },
+  "accommodates": 8,
+  "bedrooms": 2,
+  "beds": 5,
+  "number_of_reviews": 46,
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Internet",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Free parking on premises",
+    "Doorman",
+    "Elevator",
+    "Buzzer/wireless intercom",
+    "Heating",
+    "Family/kid friendly",
+    "Fire extinguisher",
+    "Essentials",
+    "Hangers",
+    "Laptop friendly workspace",
+    "Self check-in",
+    "Building staff",
+    "High chair",
+    "Hot water",
+    "Long term stays allowed"
+  ],
+  "price": {
+    "$numberDecimal": "101.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "400.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "165.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "60.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "2"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/60b96946-e605-4a20-9488-295b25e0c4c3.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "24381591",
+    "host_url": "https://www.airbnb.com/users/show/24381591",
+    "host_name": "Carolina",
+    "host_location": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+    "host_about": "Amante de viagens e passeios. Gosto de conhecer lugares pelo mundo junto da minha família",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/195fe3cf-321c-4fc5-8860-65efbd749144.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/195fe3cf-321c-4fc5-8860-65efbd749144.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": 100,
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 2,
+    "host_total_listings_count": 2,
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "suburb": "Copacabana",
+    "government_area": "Copacabana",
+    "market": "Rio De Janeiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -43.185196066971,
+        -22.970194525506763
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": 2,
+    "availability_60": 2,
+    "availability_90": 2,
+    "availability_365": 54
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 99
+  },
+  "reviews": [
+    {
+      "_id": "108984838",
+      "date": {
+        "$date": "2016-10-18T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "2279752",
+      "reviewer_name": "Pierre",
+      "comments": "Carolina a été extrêmement sympathique avec nous, de notre arrivée, jusqu'à notre départ. L'appartement est très propre, exactement comme sur la photo, proche de la plage, du métro et dans un quartier rempli de commerces et de restaurants. Marché animé le dimanche. Idéal pour séjourner à Rio, en famille. A noter que l'appartement est en rez-de-chaussée, et donc un peu sombre, ce qui ne nous a pas dérangé car il donne sur une petite cour très calme. Un plus, la place de parking qui est indispensable dans ce quartier si l'on a une voiture !"
+    },
+    {
+      "_id": "116209437",
+      "date": {
+        "$date": "2016-11-28T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "22176308",
+      "reviewer_name": "Thiago",
+      "comments": "A Carolina e seu esposo foram bem hospitaleiros e prestativos, a localização do apartamento é excelente, a uma quadra da praia, próximo a vários restaurantes, barzinhos, supermercados, uns 10 min a pé do metro, o apartamento é super aconchegante, e apesar de não ter ar-condicionado, os ventiladores de teto são muito bons, além do apartamento não pegar sol, o ar não fez falta . Pelo custo beneficio, superou as minhas expectativas. Voltarei com certeza."
+    },
+    {
+      "_id": "117324928",
+      "date": {
+        "$date": "2016-12-06T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "96830346",
+      "reviewer_name": "Sandra",
+      "comments": "A Carolina foi super atenciosa, sempre nos orientando com dicas de passeios. O apartamento é espaçoso e confortável, tudo muito limpo e organizado. A localização é excelente, fica bem próximo ao calçadão de Copacabana e também de bares e restaurantes.\r\nA estadia foi excelente. Obrigada Carolina pelo carinho."
+    },
+    {
+      "_id": "122275059",
+      "date": {
+        "$date": "2016-12-22T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "54473908",
+      "reviewer_name": "Natalie",
+      "comments": "It is a great apartment. Just a perfect location in Copacabana and very close to the beach! Carolina and her husband are really nice and help wherever they can. It was a really nice stay for my friend and I. Also the people and doorman in the house are very friendly. Can only recommend to go there!"
+    },
+    {
+      "_id": "124278285",
+      "date": {
+        "$date": "2017-01-01T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "50306867",
+      "reviewer_name": "Dario",
+      "comments": "Carolina mantuvo una comunicación continua desde el primer mensaje, el departamento es tal cual las fotos, lo mejor fue entre otros la ubicación y la seguridad ya que cuenta con dos porteros uno en el hall de ingreso y otro que maneja el estacionamiento, los cuales fueron cordiales y atentos  seguramente volveremos a elegir el departamento de Carolina en el futuro para otra estadía en Rio de janeiro "
+    },
+    {
+      "_id": "126263574",
+      "date": {
+        "$date": "2017-01-10T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "18839457",
+      "reviewer_name": "Tiago",
+      "comments": "Se for colocar todos os pontos positivos da hospedagem eu não teria espaço e tempo para faze-lo. Então vou colocar os pontos mais importantes que fizeram da nossa estadia ser prazerosa, confortável e muito agradável.\n1- Localização (fica próximo do coração de copacabana, praia, metro, avenidas principais , restaurantes (24 horas),mercados.\n2- Apartamento muito agradável,limpo, grande (maior que nas fotos de apresentação), com tv a cabo, ar condicionado, wifi e até o pessoal da portaria muito receptivo.\n3- Carolina e família, são pessoas super bacanas, nos receberam como se fossemos da família e sempre preocupados em nos deixar super bem. Super atenciosa, foi bem flexível com meus horários e com certeza não poderia ser melhor anfitriã.\n\nEsses pontos garantiram uma estadia muito boa, voltaremos nos hospedar la com toda certeza e já estamos recomendando a família e amigos próximos."
+    },
+    {
+      "_id": "126977623",
+      "date": {
+        "$date": "2017-01-15T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "108354097",
+      "reviewer_name": "Thaísa",
+      "comments": "Perto da estação de metrô, perto do ponto de ônibus, perto da praia. Há vários restaurantes, bares, padarias, nas proximidades. O apartamento é bastante cômodo, possui tudo que podemos imaginar. \nCarolina é muito simpática e atenciosa, sempre respondeu, prontamente, as mensagens de (Hidden by Airbnb) . Nos deixou extremamente a vontade no apartamento e, no dia da chegada, fez questão de nos receber e explicar tudo sobre o apartamento, o (Website hidden by Airbnb) certeza ficaria hospedada novamente.\nObs.: Carolina instalou ar condicionado no quarto de casal!!!"
+    },
+    {
+      "_id": "130297431",
+      "date": {
+        "$date": "2017-02-05T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "27543697",
+      "reviewer_name": "Areane",
+      "comments": "Bom minha estadia foi curta, mais adorei a proximidade da praia, obrigado  por tudo."
+    },
+    {
+      "_id": "132174966",
+      "date": {
+        "$date": "2017-02-16T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "43784103",
+      "reviewer_name": "Rejane",
+      "comments": "O apartamento é muito aconchegante e completo, os anfitriões são muito atenciosos e simpáticos, estamos próximos à tudo. "
+    },
+    {
+      "_id": "134694082",
+      "date": {
+        "$date": "2017-02-28T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "83182623",
+      "reviewer_name": "Camila",
+      "comments": "Carol nos recebeu muito bem. Muita preocupada com nosso conforto, foi receptiva e educada. Adorei o ap. Localização excelente e confortavel. Me senti em casa. Obrigada"
+    },
+    {
+      "_id": "136100317",
+      "date": {
+        "$date": "2017-03-08T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "106934432",
+      "reviewer_name": "Ariel",
+      "comments": "Confortable apartamento, céntrico! Muy recomendable! Carolina muy amable!"
+    },
+    {
+      "_id": "137278917",
+      "date": {
+        "$date": "2017-03-14T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "104650503",
+      "reviewer_name": "Adriana",
+      "comments": "Esta foi minha primeira experiência com o Airbnb e estou até agora encantada com a estadia maravilhosa. O espaço da Carolina é incrível, ainda melhor do que nas fotos. O apartamento é amplo, confortável, limpo, extremamente bem equipado e, principalmente, localizado. Está à uma quadra de Copacabana, tem mercados, bares, padarias, tudo à disposição e muito perto. Utilizamos a vaga de garagem gratuitamente e a equipe do edifício foi sempre muito solícita e atenciosa. Carolina e seu marido nos receberam com muito carinho, deixaram água gelada e gelo já à disposição, balinhas, toalhas e todo o tipo de conforto possível. Nos sentimos em casa nestes dias, pudemos até assistir o jogo do nosso time na libertadores graças à Tv à cabo. Só posso recomendar fortemente este apartamento e agradecer à Carolina pela excelente hospedagem."
+    },
+    {
+      "_id": "139812514",
+      "date": {
+        "$date": "2017-03-26T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "24494020",
+      "reviewer_name": "Cláudia",
+      "comments": "O apartamento é exatamente como demonstrado nas fotos do anuncio. Espaçoso, confortável e com ótimo custo benefício! Excelente para casais com ou sem filhos. A localização é ótima! Próximo a vários supermercados, restaurantes, bares, farmácias, lojas e, claro, das praias. Para quem gosta de uma caminhada tranquila na orla, é possível ir à pé também para outras praias fora de Copacabana, como Leme, Arpoador e Ipanema. Não gastamos mais do que 5 minutos de caminhada para chegar à estação do metrô (Siqueira Campos)! A proprietária é muita simpática, educada e sempre solícita! "
+    },
+    {
+      "_id": "140540093",
+      "date": {
+        "$date": "2017-03-30T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "121566324",
+      "reviewer_name": "Gabriela",
+      "comments": "Adoramos o apartamento por ser bem próximo a praia de Copacabana, com várias opções de restaurante, farmácia, subway, 24 horas, tudo perto. O apartamento é perfeito em tamanho, privacidade, limpeza, cozinha perfeita pra uma estadia inclusive em família devido ao grande espaço em todos os ambientes. Só temos ótimas recomendações ao que pretendem se hospedar. A Carolina, nossa anfitriã, é um amor e esteve em contato conosco sempre. "
+    },
+    {
+      "_id": "148776439",
+      "date": {
+        "$date": "2017-05-01T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "114571613",
+      "reviewer_name": "Antonio Carlos",
+      "comments": "estive hospedado por 30 dias no apartamento de Carolina, o apartamento é bem localizado, bem mobiliado, próximo a bares, restaurantes, supermercados, farmácias, etc... Carolina e seu esposo me receberam muito bem, tivemos ótima comunicação e o tempo de resposta foi bem rápido, o preço foi justo, gostei muito de ficar hospedado lá e recomendo a quem quiser se hospedar no coração de Copacabana. Obrigado Carolina."
+    },
+    {
+      "_id": "151172560",
+      "date": {
+        "$date": "2017-05-11T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "4073593",
+      "reviewer_name": "Tiago",
+      "comments": "O local da Carolina é perfeito! A uma quadra do calçadão e tudo muito perto! A Carolina ótima anfitriã, deixou tudo preparado para nos receber.\nO apto é impecável, bem espaço e de fácil acesso no prédio. Bem no primeiro andar, torna mais fácil ir e vir ainda mais com um bebê. \nHaviam toalhas novas, limpas, roupa de cama e utensílios de cozinha úteis para estadia. \nMuito obrigado Carolina por tudo. "
+    },
+    {
+      "_id": "153974731",
+      "date": {
+        "$date": "2017-05-22T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "110367056",
+      "reviewer_name": "Teka",
+      "comments": "Foi uma semana muito agradável, a Carolina é uma anfitriã discreta, carismática e muito atenciosa.\nO apartamento é amplo, limpinho, aconchegante e funcional, tem ótima localização é próximo a um variado comércio, a bares, restaurantes e a belíssima praia de Copacabana!\nO único contratempo foi que depois da chuva na sexta-feira, ficamos sem internet, mas nada que desmereça ou mude nosso conceito em relação a excelente estadia que tivemos.\nGratidão. :)"
+    },
+    {
+      "_id": "156668358",
+      "date": {
+        "$date": "2017-05-31T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "111804116",
+      "reviewer_name": "Davi",
+      "comments": "Excelente estadia. O apartamento é exatamente como descrito e a Carolina foi bastante acessível para dúvidas e dicas."
+    },
+    {
+      "_id": "160318163",
+      "date": {
+        "$date": "2017-06-13T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "129631254",
+      "reviewer_name": "Polyana",
+      "comments": "Anfitriões atentos e com ótimas dicas de passeios!\nLocalização perfeita, apartamento nota 10 em espaço, utensílios de cozinha, limpeza, tudo perfeito!"
+    },
+    {
+      "_id": "165333851",
+      "date": {
+        "$date": "2017-06-30T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "20441396",
+      "reviewer_name": "Rodrigo",
+      "comments": "O apartamento da Carolina é excelente, bastante espaçoso, limpo, em uma localização de Copacabana perfeita, a uma rua da Av. Atlântica e próximo a diversos restaurantes, supermercados, lojas. \nA garagem e os funcionários do prédio são um diferencial, sempre solícitos e dispostos a ajudar.\nA Carolina e o marido dela também são super simpáticos, te deixam bem a vontade para curtir a estadia."
+    },
+    {
+      "_id": "168485541",
+      "date": {
+        "$date": "2017-07-09T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "121959217",
+      "reviewer_name": "Thiago Teixeira",
+      "comments": "Excelente o lugar , perto de tudo , a casa tinha tudo de util muito bom , recomendo a todos !!!"
+    },
+    {
+      "_id": "174042410",
+      "date": {
+        "$date": "2017-07-24T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "17071701",
+      "reviewer_name": "Teresa",
+      "comments": "Boa localização. \nA estadia foi muito confortável."
+    },
+    {
+      "_id": "175716803",
+      "date": {
+        "$date": "2017-07-29T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "125524935",
+      "reviewer_name": "Paloma",
+      "comments": "O apartamento é exatamente conforme descrição. Confortável e espaçoso. A internet é ótima e a localização perfeita, pertinho de supermercado, padaria e transporte público. A Carolina é super atenciosa e organizada desde o momento da reserva, a comunicação foi perfeita. Enfim, super recomendo o apartamento, pois me senti em casa :)"
+    },
+    {
+      "_id": "185388517",
+      "date": {
+        "$date": "2017-08-21T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "141354488",
+      "reviewer_name": "Marcio",
+      "comments": "Ótima localização!"
+    },
+    {
+      "_id": "192920579",
+      "date": {
+        "$date": "2017-09-11T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "130026718",
+      "reviewer_name": "Lais",
+      "comments": "Anfitriã super solícita, apartamento muito bem localizado e muito maior do que aparenta nas fotos,limpeza impecável, todos utensílios de limpeza e cozinha, não nos faltou absolutamente nada! Muito obrigado Carol pela cordialidade de sempre! Obs :Cuidem bem do apartamento pois iremos voltar diversas vezes rs.\nDica : Tem um restaurante na rua que se chama Faenza, promoção no peixe urbano com buffet liberado(inclusive japonês) por 35 reais,vale muito a pena!"
+    },
+    {
+      "_id": "193457984",
+      "date": {
+        "$date": "2017-09-13T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "130026377",
+      "reviewer_name": "Cau",
+      "comments": "Apartamento enorme, muito limpo, organizado, aconchegante, muito bem localizado, praticamente dentro da praia! Fomos em 4, mas o apartamento comporta 7 pessoas tranquilamente Carol obrigado pela estadia e por esclarecer todas às dúvidas o mais rápido possível!"
+    },
+    {
+      "_id": "195485634",
+      "date": {
+        "$date": "2017-09-19T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "141036901",
+      "reviewer_name": "Felipe",
+      "comments": "Ótima localização, limpeza impecável, funcionários do condomínio muito educados e atenciosos, decoração de muito bom gosto e ótima anfitriã! Recomendamos e esperamos voltar em breve."
+    },
+    {
+      "_id": "198459266",
+      "date": {
+        "$date": "2017-09-29T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "135939591",
+      "reviewer_name": "Naty",
+      "comments": "O apartamento da Carol é muito bem localizado, pertinho da praia, padarias, bares e restaurantes. Ela é muito simpática e disposta a esclarecer todas as duvidas. Fomos muito bem recebidos pelo pessoal do prédio, o apartamento estava limpinho, e é muito aconchegante. Foi uma estadia incrível! Você não vai se arrepender ao se hospedar!"
+    },
+    {
+      "_id": "201955954",
+      "date": {
+        "$date": "2017-10-09T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "124727518",
+      "reviewer_name": "Fernando",
+      "comments": "O apartamento fica numa rua residencial a um quarteirão  do movimento de copacabana, uma quadra da praia."
+    },
+    {
+      "_id": "206040495",
+      "date": {
+        "$date": "2017-10-23T04:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "48247969",
+      "reviewer_name": "Helena",
+      "comments": "El apto. de Carolina es muy cómodo, práctico y la ubicación es inmejorable. A 1 cuadra de la playa, y en un barrio lleno de variados comercios. No tuvimos ningún problema de seguridad. Hay líneas de ómnibus para todos lados, y son muy rápidos. Los cariocas nos trataron muy bien ! Muy recomendable !"
+    },
+    {
+      "_id": "215746452",
+      "date": {
+        "$date": "2017-12-01T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "65040340",
+      "reviewer_name": "Rodrigo",
+      "comments": "Minha estadia foi ótima! A localização é privilegiada. Tem tudo o que se precisa próximo! A rua é  muito tranquila, pertinho da praia. Não tenho nada de ruim pra falar. A anfitriã é muito solicita, responde prontamente os contatos. Recomendo muito e sempre que precisar vou procurar por esta hospedagem. Obrigado!"
+    },
+    {
+      "_id": "217923323",
+      "date": {
+        "$date": "2017-12-10T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "158194471",
+      "reviewer_name": "Douglas",
+      "comments": "O apartamento atende em tudo e um pouco mais do que é oferecido. O espaço é muito bom e a localização, com certeza, é o que mais chama a atenção. A Carolina me atendeu sempre com muita rapidez e educação. Quando voltar ao Rio esse apartamento será minha primeira opção. Muito obrigado."
+    },
+    {
+      "_id": "220246461",
+      "date": {
+        "$date": "2017-12-21T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "15150627",
+      "reviewer_name": "Celio",
+      "comments": "Localização muito boa, aconchegante e a  hospitalidade da anfitriã e dos porteiros foi diferencial para este comentário."
+    },
+    {
+      "_id": "222326046",
+      "date": {
+        "$date": "2017-12-29T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "160116817",
+      "reviewer_name": "Patricia",
+      "comments": "O espaço é ótimo, localização impecável e o custo-benefício é maravilhoso."
+    },
+    {
+      "_id": "226215211",
+      "date": {
+        "$date": "2018-01-09T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "135725461",
+      "reviewer_name": "Poli",
+      "comments": "O espaço da Carol é excelente, ótima localização, a uma quadra da praia em ponto estratégico e área comercial que facilita o acesso a compras, alimentação e lazer, a limpo e organizado. A anfitriã é de uma atenção, compreensão e flexibilidade ímpar. Excelente experiência a um ótimo custo beneficio."
+    },
+    {
+      "_id": "228179808",
+      "date": {
+        "$date": "2018-01-18T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "123780162",
+      "reviewer_name": "Vanessa",
+      "comments": "O espaço é super bem localizado perto de tudo, praia, metrô, ônibus, táxi, etc. Aconchegante, espaçoso, ideal para famílias. Bastante seguro, porteiros educados e atenciosos. Perto de supermercado, feira, bares, etc. Fiel a descrição aqui do site. Coladinho com a praia. Carolina nos passou várias dicas, responde rápido as nossas dúvidas. Nunca havia utilizado o App, e nossa primeira experiência com a Carolina e seu espaço  foi excelente. Minha família adorou!"
+    },
+    {
+      "_id": "229974915",
+      "date": {
+        "$date": "2018-01-26T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "108530391",
+      "reviewer_name": "Lucas",
+      "comments": "Apartamento em excelente localização. Próximo à praia e em uma rua muito tranquila. Carolina foi uma ótima anfitriã, sempre disposta a ajudar. Recomendo!"
+    },
+    {
+      "_id": "230894395",
+      "date": {
+        "$date": "2018-01-29T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "84791406",
+      "reviewer_name": "Eric",
+      "comments": "Excelente localização. Apartamento conforme descrição e fotografias."
+    },
+    {
+      "_id": "234893276",
+      "date": {
+        "$date": "2018-02-14T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "158293646",
+      "reviewer_name": "Marcelo",
+      "comments": "Apartamento condiz com toda a  descrição. Bem localizado, ótimo espaço e seguro com portaria 24 horas."
+    },
+    {
+      "_id": "239159569",
+      "date": {
+        "$date": "2018-02-28T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "124727518",
+      "reviewer_name": "Fernando",
+      "comments": "Ótima anfitriã"
+    },
+    {
+      "_id": "359143481",
+      "date": {
+        "$date": "2018-12-16T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "79874370",
+      "reviewer_name": "Maria Paula",
+      "comments": "Muy lindo apartamento, muy cómoda la ubicación para acercarse a cualquier lado. Pleno centro de Copacabana, a una cuadra y media de la playa. Excelente !"
+    },
+    {
+      "_id": "360405501",
+      "date": {
+        "$date": "2018-12-20T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "71312920",
+      "reviewer_name": "Edilane",
+      "comments": "Excelente localização, limpeza, internet e atenção recebida."
+    },
+    {
+      "_id": "364825953",
+      "date": {
+        "$date": "2018-12-31T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "94419705",
+      "reviewer_name": "Ammon",
+      "comments": "Excellent!"
+    },
+    {
+      "_id": "369391784",
+      "date": {
+        "$date": "2019-01-10T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "112941316",
+      "reviewer_name": "Diana",
+      "comments": "Muy buen alojamiento, Carolina es sumamente amable, ubicación inmejorable, totalmente recomendable para 4 personas"
+    },
+    {
+      "_id": "401650466",
+      "date": {
+        "$date": "2019-01-15T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "104693162",
+      "reviewer_name": "Marcela",
+      "comments": "el departamento de Carolina es simplemente perfecto !\nviaje con mis dos hijas y pasamos días maravillosos!\nla ubicación es ideal ! media cuadra hacia adentro y media cuadra hacia rl lado de copacabana, lleno de restaurants y con un hotel casi al lado, lo que hace que caminar sea super seguro, incluso por la noche!\ntb queda a media cuadra de la calle nuestra señora, donde encontramos supermercados, cajero automático, casa de cambio, farmacia y (Website hidden by Airbnb) verdad recomiendo la ubicación es superior !!!\nel personal del edificio es de otro planeta! servicial, extremadamente amable, siempre preocupado de nosotros , hay seguridad las 24 horas\nCarolina siempre atenta a todas nuestras inquietudes, con respuestas claras y consejos sobre Rio, rutas (arrende auto) y excursiones.\nrealmente recomiendo 100% a Carolina !!"
+    },
+    {
+      "_id": "406139456",
+      "date": {
+        "$date": "2019-01-28T05:00:00Z"
+      },
+      "listing_id": "15177216",
+      "reviewer_id": "230990991",
+      "reviewer_name": "Brian",
+      "comments": "Excelente y recomendable lugar. Muy cómodo"
+    }
+  ]
+},{
+  "_id": "19789278",
+  "listing_url": "https://www.airbnb.com/rooms/19789278",
+  "name": "Discount! Large apartment in Montréal",
+  "summary": "Nice apartment on two floors (low triplex) in the heart of Rosemont in Montreal. A lot of space. Quiet residential area and populated by many families. Near a shopping street. 5 minutes walk from restaurants, various shops. Park next door with a playground and paddling pool. Ideal apartment for a family. Many books, games and toys. Near a metro station and a bicycle station Bixi. Easy parking in the surrounding streets.",
+  "space": "",
+  "description": "Nice apartment on two floors (low triplex) in the heart of Rosemont in Montreal. A lot of space. Quiet residential area and populated by many families. Near a shopping street. 5 minutes walk from restaurants, various shops. Park next door with a playground and paddling pool. Ideal apartment for a family. Many books, games and toys. Near a metro station and a bicycle station Bixi. Easy parking in the surrounding streets.",
+  "neighborhood_overview": "",
+  "notes": "",
+  "transit": "",
+  "access": "",
+  "interaction": "",
+  "house_rules": "- Pas de bruit dans la cour après 22h (respect du voisinage)",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "4",
+  "maximum_nights": "10",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": "2019-03-11T04:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-11T04:00:00Z"
+  },
+  "first_review": {
+    "$date": "2017-08-11T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2017-08-11T04:00:00Z"
+  },
+  "accommodates": 6,
+  "bedrooms": 4,
+  "beds": 5,
+  "number_of_reviews": 1,
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Heating",
+    "Family/kid friendly",
+    "Washer",
+    "Dryer",
+    "Smoke detector",
+    "Carbon monoxide detector",
+    "Safety card",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Private entrance",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets"
+  ],
+  "price": {
+    "$numberDecimal": "156.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "0.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "60.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "0.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/9706eadb-7f1d-4d1a-a7f4-181496743e99.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "135737610",
+    "host_url": "https://www.airbnb.com/users/show/135737610",
+    "host_name": "Paschale",
+    "host_location": "Montreal, Quebec, Canada",
+    "host_about": "",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/896d8356-7af4-4f4a-b06a-2771502c5bb4.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/896d8356-7af4-4f4a-b06a-2771502c5bb4.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Old Rosemont",
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Montréal, Québec, Canada",
+    "suburb": "Old Rosemont",
+    "government_area": "Rosemont-La Petite-Patrie",
+    "market": "Montreal",
+    "country": "Canada",
+    "country_code": "CA",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.59178,
+        45.55179
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 27,
+    "availability_60": 57,
+    "availability_90": 87,
+    "availability_365": 87
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "180954047",
+      "date": {
+        "$date": "2017-08-11T04:00:00Z"
+      },
+      "listing_id": "19789278",
+      "reviewer_id": "52976273",
+      "reviewer_name": "Vince",
+      "comments": "Located just five minute's walk from a major bus artery and from there only a 5min ride to the Blue Line (Metro), Paschale and Julien's home is the perfect base-camp for families looking to explore Montreal and return to a quiet neighborhood at night. \n\nWhile located within a 20min drive of all major attractions, we parked the van for three solid days and explored the city via public transit and on foot. Within a 7min walk of the home is a Provigo (chain mid-range grocery) two large parks with wading pools, tennis courts, basketball and baseball spaces, and even publicly available piano to play. Near one park is a fantastic breakfast place and a row of shops on Rue Beaubien including artisianal cheese and meat shops. So you needn't travel far to live like a native and entertain the children.\n\nThe home itself easily sleeps 7 (we were 5 including 3 children ages 7 to 12) and provides adequate cooking, dining, and sitting space. Clean, bright, and cozy, we felt right at home. \n\nSituated on the main/basement floors of a 3-storey walk-up, the main floor features three bedrooms and an office we repurposed as a fourth bedroom, using the trundle bed from one of the children's bedrooms. No air-conditioning, but the windows and fans proved more than adequate for the mild weather this week (no highs above 28C).\n\nThe bathrooms are nice, especially the newly remodelled basement bath with walk-in shower and attractive vanity. The basement also provides another bedroom and a sitting area with couch and futon facing a large TV; a comfortable space that could easily sleep two.\n\nWe are sorry our trip had to end. We would gladly stay here again. So glad we found this spot and hosts!"
+    }
+  ]
+},{
+  "_id": "19877706",
+  "listing_url": "https://www.airbnb.com/rooms/19877706",
+  "name": "Big 3 Bedroom Garden Level Apartment Near Subway",
+  "summary": "Spacious garden level loft apartment, built in 2017. Monthly payment for long stays. 3 bedrooms + 1 large living room + 1 bathroom. Everything new. Lots of windows, tall ceilings. Fully furnished. Fast WiFi. Very comfortable. Fully equipped modern kitchen with pots and pans. Towels and linens provided. On the express subway to Manhattan, 30 min to Midtown. Near Fordham, Bronx hospitals. Quiet and safe historic neighborhood, supermarkets nearby, friendly street, low traffic. Free private parking.",
+  "space": "Everything is new from 2017. Nice neighborhood, close to subway. Long stays welcome, monthly payment.",
+  "description": "Spacious garden level loft apartment, built in 2017. Monthly payment for long stays. 3 bedrooms + 1 large living room + 1 bathroom. Everything new. Lots of windows, tall ceilings. Fully furnished. Fast WiFi. Very comfortable. Fully equipped modern kitchen with pots and pans. Towels and linens provided. On the express subway to Manhattan, 30 min to Midtown. Near Fordham, Bronx hospitals. Quiet and safe historic neighborhood, supermarkets nearby, friendly street, low traffic. Free private parking. Everything is new from 2017. Nice neighborhood, close to subway. Long stays welcome, monthly payment. Private apartment, it will be all yours. The subway is close walking distance (line D at 170 St)",
+  "neighborhood_overview": "",
+  "notes": "",
+  "transit": "The subway is close walking distance (line D at 170 St)",
+  "access": "Private apartment, it will be all yours.",
+  "interaction": "",
+  "house_rules": "- No candles, no incense. Please do not move the furniture. Before checkout: - please wash your dishes - please empty the fridge and the closets completely (leave nothing at all) - take out all trash - take out any bags, papers, personal items: leave the apartment exactly as you found it. We will keep $100 from your security deposit if you leave any trash, dirty dishes, or any food in the fridge or closets.",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "90",
+  "maximum_nights": "1124",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-03-07T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-07T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-03-15T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-04-23T04:00:00Z"
+  },
+  "accommodates": 6,
+  "bedrooms": 3,
+  "beds": 5,
+  "number_of_reviews": 2,
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "Internet",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Free parking on premises",
+    "Indoor fireplace",
+    "Heating",
+    "Family/kid friendly",
+    "Smoke detector",
+    "Carbon monoxide detector",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Self check-in",
+    "Keypad",
+    "Private entrance",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Long term stays allowed"
+  ],
+  "price": {
+    "$numberDecimal": "72.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "800.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "50.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "0.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/45fec9eb-e3a1-4b75-bdf3-cc1771e1e0c9.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "2988712",
+    "host_url": "https://www.airbnb.com/users/show/2988712",
+    "host_name": "Sasha",
+    "host_location": "New York, New York, United States",
+    "host_about": "I'm a musician, often traveling for work. We will be glad to welcome you upon your arrival.",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/users/2988712/profile_pic/1342708741/original.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/users/2988712/profile_pic/1342708741/original.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Claremont",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": 11,
+    "host_total_listings_count": 11,
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "offline_government_id",
+      "government_id"
+    ]
+  },
+  "address": {
+    "street": "Bronx, NY, United States",
+    "suburb": "The Bronx",
+    "government_area": "Claremont Village",
+    "market": "New York",
+    "country": "United States",
+    "country_code": "US",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.9104,
+        40.83507
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 0,
+    "availability_60": 0,
+    "availability_90": 20,
+    "availability_365": 295
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "243354449",
+      "date": {
+        "$date": "2018-03-15T04:00:00Z"
+      },
+      "listing_id": "19877706",
+      "reviewer_id": "72764637",
+      "reviewer_name": "Andrés",
+      "comments": "Great hospitality and quick response! Stylish place and great location! I recommend it!!"
+    },
+    {
+      "_id": "256723541",
+      "date": {
+        "$date": "2018-04-23T04:00:00Z"
+      },
+      "listing_id": "19877706",
+      "reviewer_id": "179143230",
+      "reviewer_name": "Samuel",
+      "comments": "Everything matched the description in listing. Sasha was prompt to respond to questions. Great place to stay!"
+    }
+  ]
+},{
+  "_id": "20280610",
+  "listing_url": "https://www.airbnb.com/rooms/20280610",
+  "name": "Our COZY LOFT in Williamsburg, Brooklyn",
+  "summary": "Our COZY LOFT in Williamsburg, Brooklyn. This is really quite a paradox in term. But it is what we have been told. We call it Vila Maria, and it reflects my wife's ancestry of Brazil, my own from Basel, Switzerland, and our eclectic lifestyle here in Brooklyn. NOTE, THIS IS THE HOME WE LIVE IN, and share with guests.  Be gentle, be kind, be respectful and clean. Then all will be fine, and we will have a ball, sharing stories and a good laugh now and then. And hopefully also a good glass wine.",
+  "space": "",
+  "description": "Our COZY LOFT in Williamsburg, Brooklyn. This is really quite a paradox in term. But it is what we have been told. We call it Vila Maria, and it reflects my wife's ancestry of Brazil, my own from Basel, Switzerland, and our eclectic lifestyle here in Brooklyn. NOTE, THIS IS THE HOME WE LIVE IN, and share with guests.  Be gentle, be kind, be respectful and clean. Then all will be fine, and we will have a ball, sharing stories and a good laugh now and then. And hopefully also a good glass wine. The price quoted by Airbnb is the minimum base price. A room may be more expensive due to size, single, double or queens, or if it comes with a TV, minibar/freezer or microwave. View my photographs for individual room's amenities and pricing.  Photos will be updated over the coming days. The price quoted is for the first person per room. The discounted additional guest fee applies only to the same room. Likewise, the cleaning fee is per room. Not per booking.",
+  "neighborhood_overview": "",
+  "notes": "The price quoted by Airbnb is the minimum base price. A room may be more expensive due to size, single, double or queens, or if it comes with a TV, minibar/freezer or microwave. View my photographs for individual room's amenities and pricing.  Photos will be updated over the coming days. The price quoted is for the first person per room. The discounted additional guest fee applies only to the same room. Likewise, the cleaning fee is per room. Not per booking.",
+  "transit": "",
+  "access": "",
+  "interaction": "",
+  "house_rules": "- We don't mind a cigarette or two in the livingroom or kitchen with the exhaust fans on. - Be respectful, be clean and all will be fine.",
+  "property_type": "Loft",
+  "room_type": "Private room",
+  "bed_type": "Real Bed",
+  "minimum_nights": "3",
+  "maximum_nights": "120",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-03-07T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-07T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-09-05T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-01-20T05:00:00Z"
+  },
+  "accommodates": 8,
+  "bedrooms": 6,
+  "beds": 6,
+  "number_of_reviews": 11,
+  "bathrooms": {
+    "$numberDecimal": "2.5"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Paid parking off premises",
+    "Free street parking",
+    "Heating",
+    "Washer",
+    "Dryer",
+    "Smoke detector",
+    "Carbon monoxide detector",
+    "First aid kit",
+    "Safety card",
+    "Fire extinguisher",
+    "Essentials",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Microwave",
+    "Refrigerator",
+    "Dishwasher",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "Long term stays allowed",
+    "Host greets you",
+    "Handheld shower head"
+  ],
+  "price": {
+    "$numberDecimal": "86.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "400.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "50.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "40.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/baa9b920-f883-4020-872d-3c774f91a4e5.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "9757756",
+    "host_url": "https://www.airbnb.com/users/show/9757756",
+    "host_name": "Stefan",
+    "host_location": "Brooklyn, New York, United States",
+    "host_about": "I was born and raised in Switzerland, into a family of watchmakers, engineers, doctors, architects, artists, musicians, and missionaries. Uncles, aunts and cousins doing God's work all over the world, people not principally interested in money. Not to say that I do not approve of wealth and power. My grandfather, after all, was a wealthy man, founding a watch company more than 100 years ago, but let your good fortune be applied for a good purpose. \r\n\r\nReligion, however, is too confusing for me to understand, so I stick to nature. This is my guide in life. And it has worked very well for me so far. For these reasons, science, culture, politics. social justice, economics and all the things that make this world go round are of great interest to me. I'm green politically, blue in many ways, my eyes, my jeans, my bathroom towels, my mood once in a while, blue is good, I feel fine. Red and black attracts me, but generally, I will try to keep a cool head. White is beautiful, but what or who is spotless? Yellow and orange are great, who does not like sunshine? But I prefer gold. And silver would be my blue. It suites me better. I'll tell you more at a later point. \r\n\r\nBlond originally, but most hair that remains on my body is in all other places than on my head. I shave off the rest, with some stubble remaining once in a while when I'm just too lazy. I am a mountain person, strong, agile, in good shape. Style? Always appropriate for the occasion. Quality is what matters. And who does not recognize that, oh well, simply does not recognize it. \r\n",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/27b9e8d4-08ff-42d0-bb51-2946ac19f129.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/27b9e8d4-08ff-42d0-bb51-2946ac19f129.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Williamsburg",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Brooklyn, NY, United States",
+    "suburb": "Williamsburg",
+    "government_area": "Williamsburg",
+    "market": "New York",
+    "country": "United States",
+    "country_code": "US",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.96288,
+        40.71534
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 9,
+    "availability_60": 25,
+    "availability_90": 43,
+    "availability_365": 124
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "319163952",
+      "date": {
+        "$date": "2018-09-05T04:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "210701401",
+      "reviewer_name": "Waldicelia",
+      "comments": "Mr Stefan is a gentleman, the rooms is clean and beautiful. the location is in center, excelent place. You can have a bike on the side street, near metrô, near Manhattan. Everything ok"
+    },
+    {
+      "_id": "329764137",
+      "date": {
+        "$date": "2018-09-29T04:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "38857207",
+      "reviewer_name": "Paul",
+      "comments": "If you want to stay in a typical loft in NYC/Brooklyn, this is a right place. The loft complies with the description and Stefan was very helpfull and discret. The loft is very well located, in Brooklyn, close to Bedford Av and Metropolitan Av. Very easy to reach NYC by subway (One stope from Bedford av) or bicycle. Just one thing...PERFECT."
+    },
+    {
+      "_id": "338090779",
+      "date": {
+        "$date": "2018-10-18T04:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "85388115",
+      "reviewer_name": "Michelle",
+      "comments": "This has been by far my favorite place I’ve stayed at while using Airbnb. Stefan’s home is beautiful and eccentric and he is a very warm and kind host. We loved every aspect of our stay here."
+    },
+    {
+      "_id": "340315744",
+      "date": {
+        "$date": "2018-10-23T04:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "16777552",
+      "reviewer_name": "Maya",
+      "comments": "It’s perfectly located, really easy to get around both Brooklyn and Manhattan. I had a great stay with Stefan."
+    },
+    {
+      "_id": "341719963",
+      "date": {
+        "$date": "2018-10-27T04:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "16176563",
+      "reviewer_name": "Bradley",
+      "comments": "Stylish Brooklyn loft.  Great location a short walk from the L into Manhattan.  Clean and comfortable.  Stefan is very friendly, communicative, and knowledgeable.  I really enjoyed my stay and hope to visit again!"
+    },
+    {
+      "_id": "353362615",
+      "date": {
+        "$date": "2018-11-27T05:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "10266705",
+      "reviewer_name": "Bojan",
+      "comments": "I spent a month at Stefan's place and it was one of the best AirBnB experiences I've had so far! The loft is absolutely amazing – cozy, creative and clean.  Located in the heart of wonderful Williamsburg with many bars, restaurants and shopping facilities around the corner and just a short walk to L train (Bedford Avenue station) and East River ferry (North Williamsburg stop). And last but not least: Stefan is a great, very obliging host, always in a good mood and up for a laugh. I can highly recommend this place!"
+    },
+    {
+      "_id": "359902120",
+      "date": {
+        "$date": "2018-12-18T05:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "4566226",
+      "reviewer_name": "Bryan",
+      "comments": "In the last year and a half I have stayed in 20+ Airbnbs in NYC.  Stefan’s place is by far the best.  \n\nOn top of that Stefan is a wonderful host and a great person.\n\nYou can’t go wrong with this spot.  Enjoy!"
+    },
+    {
+      "_id": "360715847",
+      "date": {
+        "$date": "2018-12-21T05:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "324673",
+      "reviewer_name": "Kenneth",
+      "comments": "Absolutely recommended! The most beautiful Airbnb I have stayed in thus far, in an amazing location in Williamsburg!"
+    },
+    {
+      "_id": "364878261",
+      "date": {
+        "$date": "2018-12-31T05:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "218369914",
+      "reviewer_name": "Catherine",
+      "comments": "Accueil chaleureux et attentionné .Stefan parle plusieurs langues parfaitement\nLoft très bien décoré et bien chauffé...on se sent comme à la maison"
+    },
+    {
+      "_id": "367350226",
+      "date": {
+        "$date": "2019-01-04T05:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "2338565",
+      "reviewer_name": "Dan",
+      "comments": "I would thoroughly recommend this space to anyone wanting to explore Brooklyn/Manhattan. Stefan's place was fantastic. Convenient location, warm and clean space, and excellent amenities. Stefan was very obliging; his responses were very fast, and he made sure I had everything I needed. Thanks!"
+    },
+    {
+      "_id": "403319940",
+      "date": {
+        "$date": "2019-01-20T05:00:00Z"
+      },
+      "listing_id": "20280610",
+      "reviewer_id": "6673395",
+      "reviewer_name": "Mercedes",
+      "comments": "The loft is exactly as you see it: big, spacious, with style. Close to subway & ferry and you get to Manhattan in 20 minutes. \nQuiet, respectful & easy going, great comunication with Stefan."
+    }
+  ]
+},{
+  "_id": "24074680",
+  "listing_url": "https://www.airbnb.com/rooms/24074680",
+  "name": "Espaço Palmeiras",
+  "summary": "Preço do Alojamento / Price PAX: -  1 Pessoa: 40 €/Noite (Mínimo 3 Noites)*/- 1 Person: 40 € / Night (Minimum 3 Nights) * - 2 Pessoas:  (Mínimo 2 Noites)*/ 2 People: (Minimum 2 Nights) * - A partir da 1ª pessoa: 15 € Hóspede / Noite / - From the 2rd person: € 15 / Night *Taxas não incluídas Local amplo, todo remodelado, arejado, junto a transportes públicos (metro de S.Ovídio ) e serviços. Todas das camas em ambos os 3 quartos, podem-se converter em 3 camas de casal sem perca de qualidade.",
+  "space": "Um apartamento acolhedor, cheio de luz natural. O apartamento, com entrada individual ao mesmo, foi todo remodelado e moderniazado, para que se sinta em casa. Os quartos estão individualmente equipados com tv plasma. A cozinha, encontra-se completamente equipada!",
+  "description": "Preço do Alojamento / Price PAX: -  1 Pessoa: 40 €/Noite (Mínimo 3 Noites)*/- 1 Person: 40 € / Night (Minimum 3 Nights) * - 2 Pessoas:  (Mínimo 2 Noites)*/ 2 People: (Minimum 2 Nights) * - A partir da 1ª pessoa: 15 € Hóspede / Noite / - From the 2rd person: € 15 / Night *Taxas não incluídas Local amplo, todo remodelado, arejado, junto a transportes públicos (metro de S.Ovídio ) e serviços. Todas das camas em ambos os 3 quartos, podem-se converter em 3 camas de casal sem perca de qualidade. Um apartamento acolhedor, cheio de luz natural. O apartamento, com entrada individual ao mesmo, foi todo remodelado e moderniazado, para que se sinta em casa. Os quartos estão individualmente equipados com tv plasma. A cozinha, encontra-se completamente equipada! Os hóspedes podem desfrutar do apartamento na sua totalidade. Os hóspedes podem entrar em contato através dos contatos à disposição no site, para tal, será distribuido ao hospede, um telemovel com um cartao carregavel, para que tenha facilid",
+  "neighborhood_overview": "Um lugar central mas ao mesmo tempo suficientemente sossegado já que o apartamento é retirado da rua alguns metros.",
+  "notes": "Nas imediações encontram-se vários serviços como farmácias, cafés, restaurantes, take way, supermercados, frutaria,etc.",
+  "transit": "Metro",
+  "access": "Os hóspedes podem desfrutar do apartamento na sua totalidade.",
+  "interaction": "Os hóspedes podem entrar em contato através dos contatos à disposição no site, para tal, será distribuido ao hospede, um telemovel com um cartao carregavel, para que tenha facilidade de contacto com o proprietario.",
+  "house_rules": "- Só é permitido fumar o exterior da habitação, na area de lougradouro; - confirme a tabela de preços; - O contrato é denunciado/anulado de imediato, caso se verifique a permanência no alojamento de pessoas que não estejam contabilizados numa reserva confirmada;",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "1125",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-05-12T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-08-01T04:00:00Z"
+  },
+  "accommodates": 6,
+  "bedrooms": 3,
+  "beds": 6,
+  "number_of_reviews": 3,
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Pets allowed",
+    "Free street parking",
+    "Heating",
+    "Family/kid friendly",
+    "Washer",
+    "Dryer",
+    "First aid kit",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Private entrance",
+    "Baby bath",
+    "High chair",
+    "Crib",
+    "Room-darkening shades",
+    "Children’s dinnerware",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Ethernet connection",
+    "Pocket wifi",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "Patio or balcony",
+    "Garden or backyard",
+    "Luggage dropoff allowed",
+    "Long term stays allowed",
+    "Cleaning before checkout",
+    "Wide doorway",
+    "Well-lit path to entrance",
+    "Step-free access",
+    "Wide doorway",
+    "Wide clearance to bed",
+    "Accessible-height bed",
+    "Step-free access",
+    "Wide doorway",
+    "Wide clearance to shower",
+    "toilet",
+    "Beachfront",
+    "Handheld shower head"
+  ],
+  "price": {
+    "$numberDecimal": "40.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "150.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "20.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "15.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/654a3182-fb6b-4077-a617-a1e0067bc729.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "155415275",
+    "host_url": "https://www.airbnb.com/users/show/155415275",
+    "host_name": "Paulo",
+    "host_location": "Vila Nova de Gaia, Porto District, Portugal",
+    "host_about": "",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/92156e88-aa8b-4bd8-aa0b-fe40011c9fa8.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/92156e88-aa8b-4bd8-aa0b-fe40011c9fa8.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "google",
+      "jumio",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Vila Nova de Gaia, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Mafamude e Vilar do Paraíso",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.60358,
+        41.11205
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 0,
+    "availability_60": 0,
+    "availability_90": 0,
+    "availability_365": 0
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "263621883",
+      "date": {
+        "$date": "2018-05-12T04:00:00Z"
+      },
+      "listing_id": "24074680",
+      "reviewer_id": "95850325",
+      "reviewer_name": "Tabatha",
+      "comments": "O espaço do Paulo é maravilhoso, recém remodelado com muito bom gosto. As acomodações são ótimas e a cozinha é muito bem equipada. O espaço é perto do metro, com ótimos acessos à região central de Gaia e ao Porto. \nO melhor de tudo foi a hospitalidade dos anfitriões. Paulo teve um cuidado muito grande para que não faltasse nada para a nossa estadia, e nos recepcionou como se fôssemos da família. \nRecomendamos muito! Com certeza o melhor lugar em que eu já me hospedei"
+    },
+    {
+      "_id": "270526396",
+      "date": {
+        "$date": "2018-05-29T04:00:00Z"
+      },
+      "listing_id": "24074680",
+      "reviewer_id": "82215950",
+      "reviewer_name": "Marcos",
+      "comments": "Melhor apt em Gaia!! Se tivesse como avaliar em 6 estrelas, o faria.\n\nO que vc procura em um apt??\nNao pagar muito para morar bem?  ✓\nEstar bem localizado, perto de tudo, inclusive do metro, e ao mesmo tempo num locar tranquilo, silencioso e agradavel?  ✓\nUm excelente host, que faz de tudo para que sua estadia seja a melhor possivel? ✓\nQue seja um apt super agradavel, amplo, com boa temperatura, boa vista, bem iluminado, bem decorado e confortavel, literalmente com TUDO o que precisa?  ✓\nPoucos vizinhos e ninguem para lhe chatear?  ✓\n\nEnfim, super recomendado, em todos os aspectos, e ainda me arrisco a dizer que seria bem dificil achar um host melhor e mais atencioso do que o Paulo."
+    },
+    {
+      "_id": "300058173",
+      "date": {
+        "$date": "2018-08-01T04:00:00Z"
+      },
+      "listing_id": "24074680",
+      "reviewer_id": "194447145",
+      "reviewer_name": "Marlon",
+      "comments": "When I arrived at the airport Paulo was there to pick me up which I really appreciate as the airport isn't that close. Paulo drove me to the apartment and when we were driving to there he showed me some things in Porto and he explained me where everything was and how to get there. Once we were at the apartment he showed me the apartment and told me where I can find everything. After I dropped my suitcase at the apartment Paulo took me with him and helped me with the groceries and took me for lunch which was really nice as a first day there. Late in the afternoon when I got back at the apartment. \nThe apartment was very clean and the beds also already were made. There even was coffee already for the espresso machine so I didn’t have to buy it myself! What also was nice of the apartment is that it’s really close to the metro which will bring you very fast to Porto.\n In the two weeks I stayed in Porto I've seen Paulo several times. His hospitality and friendliness  plus the amazing apartment really made me feel like home. After one week of staying in the apartment Paulo and Carla (his wife) even came to clean again which was very kind of them. Paulo also made sure if I had everything I needed at the apartment which I really appreciated. \nI really wish I could have stayed longer at the apartment. But in the future I will definitely come back to it. I recommend this apartment to everyone as the apartment is beautiful and the price for two weeks was really good aswell. It truly were a unforgettable two weeks for me. Thank you so much Paulo and Carla!\n"
+    }
+  ]
+},{
+  "_id": "25061385",
+  "listing_url": "https://www.airbnb.com/rooms/25061385",
+  "name": "4 bdrm, 2 bath, 2 living room, kitchen",
+  "summary": "Many families and guests have enjoyed our home with 4 bedrooms, 8 beds, 2 baths, 2 living rooms and full kitchen. 1500 sqft. All bookings are for 30 days or more. Please message us and we will be happy to explain the details.  Free use of: Netflix Washer and dryer WiFi Car Parking Air Conditioning Rent a car from us (See photos) Distance from my home:   1. Airport: 9.8 miles 2. Waikiki: 2.9 miles 3. Hawaii Convention Center: 2.7 miles REMINDERS:  - No loud music - No parties",
+  "space": "Unit G & H is the upstairs portion of the home, with a private entrance, kitchen, bathroom and keys to each bedroom.  •  Air conditioning in each room.  •  2 Queen sized beds, 2 Bunk beds (twin & queen) and 2 sofa bed (queen) •  Shower has a low threshold base, easy and safe to step into. •  Washer/Dryer with laundry soap  •  Free WiFi internet •  Parking in front of the house or street parking is available •  Mini mart convenience store across the street",
+  "description": "Many families and guests have enjoyed our home with 4 bedrooms, 8 beds, 2 baths, 2 living rooms and full kitchen (Phone number hidden by Airbnb) sqft. All bookings are for 30 days or more. Please message us and we will be happy to explain the details.  Free use of: Netflix Washer and dryer WiFi Car Parking Air Conditioning Rent a car from us (See photos) Distance from my home:   1. Airport: 9.8 miles 2. Waikiki: 2.9 miles 3. Hawaii Convention Center: 2.7 miles REMINDERS:  - No loud music - No parties Unit G & H is the upstairs portion of the home, with a private entrance, kitchen, bathroom and keys to each bedroom.  •  Air conditioning in each room.  •  2 Queen sized beds, 2 Bunk beds (twin & queen) and 2 sofa bed (queen) •  Shower has a low threshold base, easy and safe to step into. •  Washer/Dryer with laundry soap  •  Free WiFi internet •  Parking in front of the house or street parking is available •  Mini mart convenience store across the street Outdoor washers and dryers •  Chec",
+  "neighborhood_overview": "5-10 min drive from:  •  20 nearby local restaurants, cafes, desserts, ice cream all along Waialae Avenue •  Whole foods •  Kahala Mall •  Farmers Market •  Nature Hikes  •  Beaches  andSea Turtles  •  Universities • Located in a local family-friendly neighborhood • Many joggers and dog walkers  • A 10 min walk from a public pool, basketball court and kids park • Two local mini marts nearby to buy your groceries",
+  "notes": "- Quite neighborhood - No loud music - No parties • Early check-in will be an additional $20.00 (Available, only if the room is not being serviced) • Late check-out will be an additional $20.00 (up to 2 hours). $40 (up to 4 hours) *This option may not always be available, due to our cleaning schedule. • Shower running, footsteps, conversational talking and television background sound may be heard • Vehicles passing by on the street can be heard. Highly recommend keeping the windows closed.  • First aid kit and a fire extinguisher are located in visible areas • Please:      - respect our home, neighbors and other guests who may be staying with us    - remember to turn off the air conditioners before leaving the house    - close the windows before leaving to prevent rain entering the house",
+  "transit": "Distance from my home:   1. Airport: 9.8 miles 2. Waikiki: 2.9 miles 3. Hawaii Convention Center: 2.7 miles 4. University of Hawaii at Manoa, Chaminade University, Kapiolani Community College: 3 miles or less.  I have a car dealership and rent out cars to my guests at discounted rates. Please let me know if you're interested renting from me. If you don't want to drive, Lyft, Uber or cab is also very convenient. Local Bus 9S, going towards Waikiki, is located across the street from the house. Returning buses stop in front of our neighbors house.  We recommend using (Hidden by Airbnb) Maps for bus departure and arrival schedule and transfers to other bus lines.",
+  "access": "Outdoor washers and dryers",
+  "interaction": "•  Check in details are available before you arrive •  Easy self check in and check out •  I live onsite, in a different unit •  I am available via text or call. (Quicker response via text) •  *If there is an immediate emergency, please call 911",
+  "house_rules": "•  Quiet hours from 10pm - 7am (please do not do your laundry during these hours) •  Do not invite people outside of your Airbnb group.  •  Turn off all air conditioners, lights, water, and tv if not in use •  No loud music or loud television volume •  Do not smoke or vape in the house •  Please use water hose to rinse off sand before entering the house  •  No illegal drugs of any kind allowed (Our neighbors will call the police)",
+  "property_type": "House",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "1",
+  "maximum_nights": "30",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": "2019-03-06T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-06T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-08-19T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-02-24T05:00:00Z"
+  },
+  "accommodates": 12,
+  "bedrooms": 4,
+  "beds": 8,
+  "number_of_reviews": 4,
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": [
+    "TV",
+    "Internet",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Free parking on premises",
+    "Free street parking",
+    "Family/kid friendly",
+    "Washer",
+    "Dryer",
+    "Smoke detector",
+    "First aid kit",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Self check-in",
+    "Lockbox",
+    "Private entrance",
+    "Hot water"
+  ],
+  "price": {
+    "$numberDecimal": "79.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "500.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "140.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "0.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/801df9c9-4cb7-441c-a9c4-f7bd52d14bdf.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "179470703",
+    "host_url": "https://www.airbnb.com/users/show/179470703",
+    "host_name": "Bingning",
+    "host_location": "Honolulu, Hawaii, United States",
+    "host_about": "",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/20581b01-e298-4be7-9e6b-edbfcb2bf920.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/20581b01-e298-4be7-9e6b-edbfcb2bf920.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Palolo",
+    "host_response_rate": 100,
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 4,
+    "host_total_listings_count": 4,
+    "host_verifications": [
+      "email",
+      "phone",
+      "jumio",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Honolulu, HI, United States",
+    "suburb": "Oʻahu",
+    "government_area": "Primary Urban Center",
+    "market": "Oahu",
+    "country": "United States",
+    "country_code": "US",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -157.79939,
+        21.2946
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 19,
+    "availability_60": 41,
+    "availability_90": 64,
+    "availability_365": 154
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 9,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "310709919",
+      "date": {
+        "$date": "2018-08-19T04:00:00Z"
+      },
+      "listing_id": "25061385",
+      "reviewer_id": "140700562",
+      "reviewer_name": "Diane",
+      "comments": "The downstairs Unit GH was large, clean, air-conditioned and very new.  It was better for our large group than our original reservation on the 2nd floor of the adjacent building.  From my initial email inquiry, to checking in, to the key in the lock box, to providing more sheets/blankets, Bingning and his co-host were very prompt in all responses.   The freeway access is very easy, the location is good, the minimart across the street is convenient, and the free parking was great (although the construction materials and work made it slightly trickier to maneuver).   Our team would stay here again (Website hidden by Airbnb)"
+    },
+    {
+      "_id": "362628288",
+      "date": {
+        "$date": "2018-12-26T05:00:00Z"
+      },
+      "listing_id": "25061385",
+      "reviewer_id": "72589203",
+      "reviewer_name": "Chien-Wei",
+      "comments": "Generally speaking, this is a good place to stay"
+    },
+    {
+      "_id": "403876252",
+      "date": {
+        "$date": "2019-01-21T05:00:00Z"
+      },
+      "listing_id": "25061385",
+      "reviewer_id": "58052722",
+      "reviewer_name": "Ann",
+      "comments": "Place was as advertised. Our group of 9 fit wonderfully. The kitchen was spacious and had all of the tools, etc. that we needed and wanted. My daughter was especially happy to have shampoo, conditioner and body wash provided! Whenever we asked a question or requested help, we got a quick response, which we really appreciated."
+    },
+    {
+      "_id": "416625090",
+      "date": {
+        "$date": "2019-02-24T05:00:00Z"
+      },
+      "listing_id": "25061385",
+      "reviewer_id": "229821142",
+      "reviewer_name": "Koki",
+      "comments": "ｵｰﾅｰの方は日本に滞在経験のある方でした｡部屋は広く､設備も充実しており期待以上でした｡"
+    }
+  ]
+},{
+  "_id": "25071762",
+  "listing_url": "https://www.airbnb.com/rooms/25071762",
+  "name": "Quinta Adágio",
+  "summary": "Casa de pedra com piscina privada, ideal para uns dias de descanso em (Website hidden by Airbnb) todas as comodidades para passar dias maravilhosos.  A 70km do Porto, a 45km de Aveiro. A 35Km dos Passadiços do Paiva | (Website hidden by Airbnb) |    A 17 km da frecha da Mizarela | (Website hidden by Airbnb) |",
+  "space": "",
+  "description": "Casa de pedra com piscina privada, ideal para uns dias de descanso em (Website hidden by Airbnb) todas as comodidades para passar dias maravilhosos.  A 70km do Porto, a 45km de Aveiro. A 35Km dos Passadiços do Paiva | (Website hidden by Airbnb) |    A 17 km da frecha da Mizarela | (Website hidden by Airbnb) |",
+  "neighborhood_overview": "",
+  "notes": "",
+  "transit": "",
+  "access": "",
+  "interaction": "",
+  "house_rules": "",
+  "property_type": "House",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "3",
+  "maximum_nights": "1125",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-07-08T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-01-01T05:00:00Z"
+  },
+  "accommodates": 8,
+  "bedrooms": 3,
+  "beds": 6,
+  "number_of_reviews": 9,
+  "bathrooms": {
+    "$numberDecimal": "3.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Pool",
+    "Kitchen",
+    "Free parking on premises",
+    "Indoor fireplace",
+    "Heating",
+    "Family/kid friendly",
+    "Washer",
+    "Smoke detector",
+    "First aid kit",
+    "Essentials",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Private entrance",
+    "Hot water",
+    "Bed linens",
+    "Host greets you"
+  ],
+  "price": {
+    "$numberDecimal": "99.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "0.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/8549e738-16d8-40ff-9f30-cad360e4aa4b.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "189536798",
+    "host_url": "https://www.airbnb.com/users/show/189536798",
+    "host_name": "Cipriano",
+    "host_location": "PT",
+    "host_about": "",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/5f88bceb-a9d4-4dab-8720-5c5273576363.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/5f88bceb-a9d4-4dab-8720-5c5273576363.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone"
+    ]
+  },
+  "address": {
+    "street": "Junqueira, Aveiro, Portugal",
+    "suburb": "",
+    "government_area": "Junqueira",
+    "market": "Other (International)",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.33777,
+        40.80005
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 28,
+    "availability_60": 56,
+    "availability_90": 86,
+    "availability_365": 239
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 9,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "287664971",
+      "date": {
+        "$date": "2018-07-08T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "18580564",
+      "reviewer_name": "Maria Glória",
+      "comments": "Uma casa óptima para um retiro e para um convívio com amigos. Localizada numa zona extremamente calma, a quinta Adágio é uma casa incrível com uma piscina óptima e condições óptimas. O Sr. Cipriano é muito simpático e atencioso, sempre disponível. Adoramos a estadia. \nRecomendo para umas férias calmas e essencialmente para um convívio com amigos com churrasco, boas conversas e tardes na piscina fantástica. "
+    },
+    {
+      "_id": "296228693",
+      "date": {
+        "$date": "2018-07-25T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "77473868",
+      "reviewer_name": "Guillermo",
+      "comments": "Un paraje espectacular y un alojamiento a la altura de lo esperado. Un placer descansar unos días en un lugar así. 100% recomendable para todo aquel que quiera disfrutar del Pais vecino, Cipriano está atento en todo momento, y te recibe con una botella de brut, a la casa no le falta detalle, carbón, barbacoa, freidora.....todo lo que puedas imaginarte y mas, la piscina espectacular, sin ninguna duda repetiremos experiencia\n\n"
+    },
+    {
+      "_id": "300544843",
+      "date": {
+        "$date": "2018-08-02T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "97902567",
+      "reviewer_name": "Pedro",
+      "comments": "Para todos os que procuram descansar uns dias com amigos ou família, podem esperar o melhor deste espaço. A casa tem ótimas condições com muito espaço e tudo o que é (Website hidden by Airbnb) piscina e a zona de churrasco muito agradável.  \nO Cipriano mostrou-se sempre disponível desde a reserva e  deixou-nos muito á vontade. Um espaço para voltar noutra ocasião."
+    },
+    {
+      "_id": "305481946",
+      "date": {
+        "$date": "2018-08-11T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "194145483",
+      "reviewer_name": "Raul",
+      "comments": "Una casa perfecta si buscas tranquilidad y te acompaña el buen tiempo. Es simplemente preciosa y tiene todo lo necesario para que tu estancia sea más que cómoda. La piscina, el jardín y su cenador con horno y barbacoa son estupendos y Cipriano te facilita la leña y el carbón vegetal !!.\nEl trato es exquisito, siempre atento a tu llamada (para lo que sea) pero en ningún momento aparece por el alojamiento si no es requerido. La zona donde se ubica la casa es la típica aldea portuguesa, similar a las existentes en Galicia y su entorno, montes y rios, es espectacular. A pocos minutos enuentras bares, restaurantes y zonas de asadores/merenderos y, si quieres hacer compras, en Vale do Cambra hay de todo.\nUna experiencia genial !!!"
+    },
+    {
+      "_id": "309554838",
+      "date": {
+        "$date": "2018-08-18T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "194433784",
+      "reviewer_name": "Stéphane",
+      "comments": "Dépaysement garanti ! \nTrès bon séjour,Cipriano est un hôte remarquable,pleins de petites attentions envers ses voyageurs\nA recommander sans hésitation"
+    },
+    {
+      "_id": "320887484",
+      "date": {
+        "$date": "2018-09-09T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "211300734",
+      "reviewer_name": "Vera",
+      "comments": "Um espaço agradável, bonito e rural, para escapar ao dia a dia das grandes cidades, ideal para momentos em família e/ou refúgio a dois."
+    },
+    {
+      "_id": "333567003",
+      "date": {
+        "$date": "2018-10-07T04:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "213720882",
+      "reviewer_name": "Igor",
+      "comments": "Obriagdo Cipriano, excelente casa!"
+    },
+    {
+      "_id": "364267738",
+      "date": {
+        "$date": "2018-12-30T05:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "77448582",
+      "reviewer_name": "Mónica",
+      "comments": "Hemos pasado 4 días en la casa de Cipriano y la estancia ha sido perfecta. La casa impecable y con muchos servicios, una chimenea estupenda que canlentaba toda los radiadores de la casa a la perfección, el salón muy cómodo para los 8 que fuimos, y la cocina muy completa, con todo. Volveremos, Cipriano. Gracias."
+    },
+    {
+      "_id": "365440250",
+      "date": {
+        "$date": "2019-01-01T05:00:00Z"
+      },
+      "listing_id": "25071762",
+      "reviewer_id": "215853023",
+      "reviewer_name": "Maria",
+      "comments": "Foi uma ótima estadia. A casa é muito confortável e está totalmente (Website hidden by Airbnb) a lareira e o aquecimento dá um conforto ainda maior. Receberam-nos bem e tinham tudo ao dispor para a nossa estadia. O único problema é não ter wi-fi e não ter rede em muitas partes da casa, o que por um lado pode até ser uma vantagem para uma estadia mais tranquila. Aconselho."
+    }
+  ]
+},{
+  "_id": "25233509",
+  "listing_url": "https://www.airbnb.com/rooms/25233509",
+  "name": "Terrace, sea view at Diagonal Mar!",
+  "summary": "Luxury 4-bedroom apartment with a terrace at highly sought-after Diagonal Mar area of Barcelona.  This beautiful apartment in the exclusive Illa del Llac development in Barcelona's Diagonal Mar boasts incredible beach, sea and city views!",
+  "space": "The apartment is a great, all-marble, 4 bedroom apartment with sleeping space for 8. The first room is a double-bed bedroom with access to the terrace and has an ensuite bathroom. The rest of rooms have 2 single beds each. There is a second bathroom in the corridor. Sleeping area is separate from the living room, terrace and kitchen so a nice rest is assured even with some guests staying at the living room. Kitchen is complete with stoves, oven, microwave, freezer, fridge, coffee machine and everything you need to cook great meals while in Barcelona. Both bathrooms have a nice bath to relax after a long day!",
+  "description": "Luxury 4-bedroom apartment with a terrace at highly sought-after Diagonal Mar area of Barcelona.  This beautiful apartment in the exclusive Illa del Llac development in Barcelona's Diagonal Mar boasts incredible beach, sea and city views! The apartment is a great, all-marble, 4 bedroom apartment with sleeping space for 8. The first room is a double-bed bedroom with access to the terrace and has an ensuite bathroom. The rest of rooms have 2 single beds each. There is a second bathroom in the corridor. Sleeping area is separate from the living room, terrace and kitchen so a nice rest is assured even with some guests staying at the living room. Kitchen is complete with stoves, oven, microwave, freezer, fridge, coffee machine and everything you need to cook great meals while in Barcelona. Both bathrooms have a nice bath to relax after a long day! Guests will be in the best area in Barcelona, just a few steps away from the Barcelona beach (300 meters), and a zone with a swimming pool to rel",
+  "neighborhood_overview": "Diagonal Mar is the best quarter in Barcelona in summer, as its one of the few quarters next to the beach, its the most modern and has the best shopping center in town so you don't need to move if you came to Barcelona to relax. Still you'll be just 20 minutes away from the city center so you can visit during the day and then relax in the beach or pool. The apartment is just in front of one bus stop which will take you to Villa Olímpica and Ramblas in no-time. If you prefer other transports (metro, tram), they are just 10 minutes away. We're committed to make your stay a true-Airbnb experience. We'll try to do as much as possible to do so!",
+  "notes": "Apartment has official registry number: HUTB-005956",
+  "transit": "",
+  "access": "Guests will be in the best area in Barcelona, just a few steps away from the Barcelona beach (300 meters), and a zone with a swimming pool to relax after a hard walking day or just to enjoy the whole day! The condo includes a common zone to relax with swimming pool and gym! Its open from 10am to 8pm.",
+  "interaction": "Me or my assistant will wait for you in the apartment. Once you're arriving you can call me or her to assure we're waiting for you in the apartment. During your stay we'll be always available for any problem, doubt or recommendation!",
+  "house_rules": "",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "1",
+  "maximum_nights": "365",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": "2019-03-08T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-08T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-07-24T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-07-24T04:00:00Z"
+  },
+  "accommodates": 8,
+  "bedrooms": 4,
+  "beds": 6,
+  "number_of_reviews": 1,
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": [
+    "TV",
+    "Internet",
+    "Wifi",
+    "Air conditioning",
+    "Pool",
+    "Kitchen",
+    "Free parking on premises",
+    "Pets allowed",
+    "Gym",
+    "Elevator",
+    "Buzzer/wireless intercom",
+    "Heating",
+    "Washer",
+    "Dryer",
+    "Shampoo",
+    "Hair dryer",
+    "Iron",
+    "Private living room",
+    "Bathtub",
+    "High chair",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishwasher",
+    "Dishes and silverware",
+    "Oven",
+    "Stove",
+    "Patio or balcony",
+    "Host greets you",
+    "Waterfront"
+  ],
+  "price": {
+    "$numberDecimal": "190.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "0.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "65.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "35.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "6"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/c468af12-4fb4-4bd2-923e-180cd2c6e738.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "971768",
+    "host_url": "https://www.airbnb.com/users/show/971768",
+    "host_name": "Akira",
+    "host_location": "Barcelona, Cataluña, Spain",
+    "host_about": "Owner of apartments in Barcelona. All of my apartments include linen, towels, coffe machine, toaster, microwave and all ammenities you might need to assure you a pleasant stay. I live near the apartments in Barcelona all year round, so any problem during your stay will be solved immediately. \r\n\r\nI also provide a small guide on the apartments, surroundings and Barcelona so if you have no idea what to do during your free time there is plently of suggestions! I was born in Barcelona, so I can recommend to any sort of visitor the best for their stay!",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/users/971768/profile_pic/1344443478/original.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/users/971768/profile_pic/1344443478/original.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Diagonal Mar - La Mar Bella",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": 22,
+    "host_total_listings_count": 22,
+    "host_verifications": [
+      "email",
+      "phone",
+      "facebook",
+      "reviews",
+      "jumio",
+      "government_id",
+      "work_email"
+    ]
+  },
+  "address": {
+    "street": "Barcelona, Barcelona, Spain",
+    "suburb": "Sant Martí",
+    "government_area": "Diagonal Mar i el Front Marítim del Poblenou",
+    "market": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        2.21416,
+        41.40968
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": 18,
+    "availability_60": 39,
+    "availability_90": 64,
+    "availability_365": 257
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": []
+},{
+  "_id": "25715808",
+  "listing_url": "https://www.airbnb.com/rooms/25715808",
+  "name": "Villa 200m2, 10 mn de Porto  , 150m de la plage",
+  "summary": "Maison entièrement à neuf. Faite avec goût.  Elle est composée de 4 chambres avec chacune sa salle de bain. Aussi il y a un canapé lit de 2 place à l étage.  Un très grand salon cuisine de 90m2, est composé d’un très beau canapé d angle, un très bel îlot central très cosi.  Vous allez vous sentir au calme dans un cadre à 150m de la plage.",
+  "space": "Cette villa est constituée d'une jolie cuisine toute équipée (lave vaisselle, four, micro onde, plaque induction), un salon salle à manger de 95m² avec un écran led de 165cm, un canapé 8 places, un grand meuble avec des rangements, de 4 suites avec chacune sa salle de bain, un canapé lit à l'étage et de 3 toilettes. A étage, vous apprécierez la terrasse de 36m² avec la vue sur mer. Pour les fans de musique, je pourrez brancher via bluetooth, votre iPod, téléphone, et le son ressortira par les enceintes situées au plafond de la pièce principale.",
+  "description": "Maison entièrement à neuf. Faite avec goût.  Elle est composée de 4 chambres avec chacune sa salle de bain. Aussi il y a un canapé lit de 2 place à l étage.  Un très grand salon cuisine de 90m2, est composé d’un très beau canapé d angle, un très bel îlot central très cosi.  Vous allez vous sentir au calme dans un cadre à 150m de la plage. Cette villa est constituée d'une jolie cuisine toute équipée (lave vaisselle, four, micro onde, plaque induction), un salon salle à manger de 95m² avec un écran led de 165cm, un canapé 8 places, un grand meuble avec des rangements, de 4 suites avec chacune sa salle de bain, un canapé lit à l'étage et de 3 toilettes. A étage, vous apprécierez la terrasse de 36m² avec la vue sur mer. Pour les fans de musique, je pourrez brancher via bluetooth, votre iPod, téléphone, et le son ressortira par les enceintes situées au plafond de la pièce principale. J aime être en liaison avec les voyageurs. L échanges est très important. Vous séjournerez dans un cadre trè",
+  "neighborhood_overview": "Vous séjournerez dans un cadre très calme, sans bruit, pour avoir des vacances apaisées. Vous apprécierez les restaurants de poisson qui se situent en bord de mer",
+  "notes": "Cadre très calme. Si vous avez besoin de repos, ce lieu est fait pour vous. Vous aurez les restaurants à proximité afin de goûter les produits locaux.",
+  "transit": "A 10 min de l'aéroport de Porto A proximité de tous commerces Stationnement privé plusieurs véhicules",
+  "access": "",
+  "interaction": "J aime être en liaison avec les voyageurs. L échanges est très important.",
+  "house_rules": "",
+  "property_type": "House",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "3",
+  "maximum_nights": "1125",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-08-31T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-01-07T05:00:00Z"
+  },
+  "accommodates": 10,
+  "bedrooms": 4,
+  "beds": 5,
+  "number_of_reviews": 10,
+  "bathrooms": {
+    "$numberDecimal": "4.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Air conditioning",
+    "Pool",
+    "Kitchen",
+    "Free parking on premises",
+    "Free street parking",
+    "Heating",
+    "Washer",
+    "Smoke detector",
+    "Essentials",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Crib",
+    "Pack ’n Play/travel crib",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Ethernet connection",
+    "Pocket wifi",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishwasher",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "BBQ grill",
+    "Garden or backyard",
+    "Long term stays allowed",
+    "Host greets you",
+    "Beachfront"
+  ],
+  "price": {
+    "$numberDecimal": "180.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "500.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "0.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "0.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/8eaa22ce-2b01-42fd-a543-f2b8423df3ad.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "162795984",
+    "host_url": "https://www.airbnb.com/users/show/162795984",
+    "host_name": "Jose",
+    "host_location": "FR",
+    "host_about": "",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/60b7e86f-8e1e-459f-9ddc-2b5f0d3eed5a.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/60b7e86f-8e1e-459f-9ddc-2b5f0d3eed5a.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone"
+    ]
+  },
+  "address": {
+    "street": "Labruge, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Labruge",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.72207,
+        41.27715
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 25,
+    "availability_60": 52,
+    "availability_90": 62,
+    "availability_365": 298
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 9,
+    "review_scores_value": 9,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "316486229",
+      "date": {
+        "$date": "2018-08-31T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "172991743",
+      "reviewer_name": "Mikhail",
+      "comments": "Great house , everything is new and the area is realy scenic.\nХороший дом , только недавно отреставрирован, все работает ,а местность очень умиротворяющая ."
+    },
+    {
+      "_id": "324003085",
+      "date": {
+        "$date": "2018-09-16T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "102108036",
+      "reviewer_name": "Charles-Emmanuel",
+      "comments": "Très chouette maison toute moderne et propre. Tout était nickel. Les propriétaires sont sympa et prêt ) aider et l’accueil avec un porto et des pâtisseries était super. Le propriétaire ne parle pas anglais mais la communication n'a pas été compliquée.  La maison est à 200 mètres de la plage mais à 35 minutes de marche du métro, la voiture est donc recommandée. La piscine serait en construction..."
+    },
+    {
+      "_id": "335121913",
+      "date": {
+        "$date": "2018-10-11T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "45717065",
+      "reviewer_name": "Paulina",
+      "comments": "We were a group of eight people in Labruge and had an incredibly great time. The villa was even more beautiful than on the pictures! Absolute recommendation! The beach is 2 minutes away, only the train station is a bit further, but with a taxi or a car it is no problem. Jose always replied immediately. Especially Helder was incredibly accommodating and nice! He was really courteous and made the stay super enjoyable. We were really happy to meet him! We would come back anytime and hope to see you again! If you do not book this accommodation, it is your own fault!\n\nNós estávamos em oito labruge e tivemos um tempo incrivelmente grande. a vila era ainda mais bonita que as fotos! recomendação absoluta! A praia fica a 2 minutos, apenas a estação de trem é infelizmente um pouco mais longe, mas com o táxi ou carro não é problema. José sempre respondeu imediatamente. e especialmente herder foi incrivelmente confortáveis e Nice! Ele estava realmente ansioso e fez a estadia super agradável. Nós ficamos muito felizes em conhecê-lo! Nós voltaríamos a qualquer momento e esperamos vê-lo novamente! Se você não reservar este alojamento, é sua própria culpa!"
+    },
+    {
+      "_id": "336297581",
+      "date": {
+        "$date": "2018-10-14T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "213983277",
+      "reviewer_name": "Vero",
+      "comments": "La casa es maravillosa tiene todo lo que se puede esperar la ubicación es genial y es un lugar muy tranquilo para pasar con amigos nosotros seguro que repetimos"
+    },
+    {
+      "_id": "339340004",
+      "date": {
+        "$date": "2018-10-21T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "140243918",
+      "reviewer_name": "Corinne",
+      "comments": "A recommander, 10 sur 10. Il faut surtout que les voyageurs prennent soins de cette maison pour qu’elle reste comme elle est."
+    },
+    {
+      "_id": "341157907",
+      "date": {
+        "$date": "2018-10-26T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "66178749",
+      "reviewer_name": "Estelle",
+      "comments": "Chez José vous adorerez l’espace de sa belle maison, la piscine, la terrasse du haut pour le café face au couché de soleil et la proximité de la mer."
+    },
+    {
+      "_id": "343314154",
+      "date": {
+        "$date": "2018-10-31T04:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "9361696",
+      "reviewer_name": "Cyrille",
+      "comments": "villa moderne très agreable helder tres sympathique et réactif !  nous recommandons !"
+    },
+    {
+      "_id": "356867605",
+      "date": {
+        "$date": "2018-12-09T05:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "33786666",
+      "reviewer_name": "Narcis Teodor",
+      "comments": "Os recomiendo sin lugar a dudas este alojamiento. Súper bonito, limpio, moderno, ubicación perfecta, todo espectacular. "
+    },
+    {
+      "_id": "365412472",
+      "date": {
+        "$date": "2019-01-01T05:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "104553103",
+      "reviewer_name": "André",
+      "comments": "Casa com boa localização e excelentes comodidades! Boa climatização! Bom sistema de som! Óptima higiene e limpeza! Recomendo!"
+    },
+    {
+      "_id": "368600154",
+      "date": {
+        "$date": "2019-01-07T05:00:00Z"
+      },
+      "listing_id": "25715808",
+      "reviewer_id": "220072570",
+      "reviewer_name": "Jean Claude",
+      "comments": "La maison de José est vraiment superbe avec des prestations de grandes qualités.\nTout est neuf et de bon standing.\nExcellente qualité de la literie\nL’accueil est super et notre interlocuteur très disponible et réactif.\n\nLa situation géographique de la maison est excellente compte tenu de nos objectifs : 15 / 20 mn par autoroute pour rejoindre le centre de Porto et très bien situé pour descendre en visite soit vers le sud (Aveiro....), l'est (vallée du Douro) ou un peu plus au nord (Guimaraes, Barcelos....)\n\nLa toute proximité de l'océan était secondaire pour nous en cette période de l'année.\nPossibilité de faire ses courses en grandes surfaces à proximité \n\nUn groupe très satisfait d'avoir séjourné dans cette demeure et ce beau coin du Portugal."
+    }
+  ]
+},{
+  "_id": "26106075",
+  "listing_url": "https://www.airbnb.com/rooms/26106075",
+  "name": "Apartment with 3 terraces in Porto",
+  "summary": "Great apartment in Paranhos, Porto. It is the 4th last floor with 3 awsome terraces, where you can see the sunset.  The place is very calm and I expect you to be also calm because there are families living in the same the building. The bathroom is small but it works very well. It is close to bus stops for the city center. Around in the area you can find supermarkets, pharmacy, bakery, restaurants... A security deposit of 70€ is required at the check in and it will be returned at the check out.",
+  "space": "This apartment has 3 terraces where you can catch some sun and relax. The living room has a lot of space and the kitchen has everything you need to cook a great meal.",
+  "description": "Great apartment in Paranhos, Porto. It is the 4th last floor with 3 awsome terraces, where you can see the sunset.  The place is very calm and I expect you to be also calm because there are families living in the same the building. The bathroom is small but it works very well. It is close to bus stops for the city center. Around in the area you can find supermarkets, pharmacy, bakery, restaurants... A security deposit of 70€ is required at the check in and it will be returned at the check out. This apartment has 3 terraces where you can catch some sun and relax. The living room has a lot of space and the kitchen has everything you need to cook a great meal. Guests can use the all area of the apartment and all the terraces also. The building also have a garage. The apartment is located close to the university campus. Close to the house you can find bus stops to the city center.  Around in the area you can find a lot of services also.",
+  "neighborhood_overview": "The apartment is located close to the university campus. Close to the house you can find bus stops to the city center.  Around in the area you can find a lot of services also.",
+  "notes": "",
+  "transit": "",
+  "access": "Guests can use the all area of the apartment and all the terraces also. The building also have a garage.",
+  "interaction": "",
+  "house_rules": "",
+  "property_type": "House",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "1125",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-06-24T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-06-24T04:00:00Z"
+  },
+  "accommodates": 6,
+  "bedrooms": 2,
+  "beds": 6,
+  "number_of_reviews": 1,
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "Wifi",
+    "Kitchen",
+    "Free parking on premises",
+    "Breakfast",
+    "Elevator",
+    "Essentials",
+    "Shampoo",
+    "Hangers",
+    "Laptop friendly workspace",
+    "Host greets you"
+  ],
+  "price": {
+    "$numberDecimal": "100.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "0.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/135dcdda-1b21-4db2-9fc0-273e0d172e1b.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "78110758",
+    "host_url": "https://www.airbnb.com/users/show/78110758",
+    "host_name": "Diana",
+    "host_location": "Porto, Porto District, Portugal",
+    "host_about": "",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/db4f9712-a81d-4aa9-83aa-f52f6657fad3.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/db4f9712-a81d-4aa9-83aa-f52f6657fad3.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "facebook",
+      "reviews"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Paranhos",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.5879,
+        41.17727
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": 0,
+    "availability_60": 0,
+    "availability_90": 0,
+    "availability_365": 0
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 8,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 8,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "280896304",
+      "date": {
+        "$date": "2018-06-24T04:00:00Z"
+      },
+      "listing_id": "26106075",
+      "reviewer_id": "55927904",
+      "reviewer_name": "Cátia A R",
+      "comments": "Super hospitaleiros, apartamento espaçoso."
+    }
+  ]
+},{
+  "_id": "28795425",
+  "listing_url": "https://www.airbnb.com/rooms/28795425",
+  "name": "1tnf SUPER GREAT LOCATION IN BARCELONA!!!",
+  "summary": "Nice bright and sunny spacious \"Acomodis\" duplex apartment located in central Barcelona, in Poble Sec in a very nice and safe neighbourhood. This is a nice and special \"Acomodis\" duplex apartment in a perfect location in the city!",
+  "space": "Welcome to Barcelona and to \"Acomodis\" apartments! If you contact us we'll answer you to confirm availability and to give you more information. The price is set according to the number of people, number of nights and season. IDEAL QUIET LOCATION IN THE CENTER OF BARCELONA CLOSE TO LAS RAMBLAS Come discover why this is a lovely and unique \"Acomodis\" accommodation which will offer you not only a comfortable stay but also a nice experience in Barcelona if you want to be part of the “local scene”. In the past the building was an industrial factory and then a school. Since 1999 there are several apartments in the building with nice neighbours and our \"Acomodis\" apartment is a nice place for our guests who want to visit Barcelona. Highlights of the area: close to the centre of town, near Plaça Espanya and the Magic Fountains of Montjuïc, Poble Espanyol. *OUR HAPPY GUESTS are mature and young couples, families with older and young children, groups of friends and solo travelers. *WE OFFER OUR ",
+  "description": "Nice bright and sunny spacious \"Acomodis\" duplex apartment located in central Barcelona, in Poble Sec in a very nice and safe neighbourhood. This is a nice and special \"Acomodis\" duplex apartment in a perfect location in the city! Welcome to Barcelona and to \"Acomodis\" apartments! If you contact us we'll answer you to confirm availability and to give you more information. The price is set according to the number of people, number of nights and season. IDEAL QUIET LOCATION IN THE CENTER OF BARCELONA CLOSE TO LAS RAMBLAS Come discover why this is a lovely and unique \"Acomodis\" accommodation which will offer you not only a comfortable stay but also a nice experience in Barcelona if you want to be part of the “local scene”. In the past the building was an industrial factory and then a school. Since 1999 there are several apartments in the building with nice neighbours and our \"Acomodis\" apartment is a nice place for our guests who want to visit Barcelona. Highlights of the area: close to t",
+  "neighborhood_overview": "HAPPY NEIGHBOURHOOD Paral.lel and Poble Sec are barrios included in the district called Montjuïc. Paral.lel is an avenue that cuts down from picturesque Plaça Espanya right down to the World Trade Centre at the tip of the port. Poble Sec is an area spreading out from the middle of Paral.lel. The areas are safe and primarily residential but there is much entertainment to be had as well. This includes popular bars, theatre and even a club. However, whilst Paral.lel is a busy thoroughfare during the day, the areas are quiet and just a 10-20 minute walk to the centre of the city and Las Ramblas. A good choice if you want to be central but away from the crowds of tourists that populate more central areas. Montjuïc and Plaça Espanya are also very close by. The event halls and the Palau de Congressos near Plaça espanya also make the (URL HIDDEN) Poble Sec area perfect for those in Barcelona on business. Although both Plaça Espanya and Montjuïc have a lot to offer tourists as well. There are s",
+  "notes": "As you will be staying in a fully touristic licensed \"Acomodis\" apartment There is a tourist tax of 2.5 cent per adult per night, this needs to be paid on check in please. Children under 17's are free.",
+  "transit": "The \"Acomodis\" apartment is very close to the metro station \"Paral.lel\" (green and purple lines). They go directly to La Sagrada Familia, Camp Nou and Parc Güell. If you come by car let us know to give you updated information about parkings in the area.",
+  "access": "You'll have full access to the \"Acomodis\" apartment. It'll be all yours for your stay.",
+  "interaction": "We'll be on hand to help in any way we can.",
+  "house_rules": "- No smoking in the apartment please  - The kitchen is of course available for your use, please be safe.  - Reasonable quiet noise levels especially after 21pm. - Respect of the property and neighbours.  - No loud parties. - With the hot weather we would really appreciate if you could clean down kitchen surfaces at least once a day (only if used) and bring out the garbage at least every second day. This is necessary in the hot weather, thank you! The garbage bins are located very close to your apartment - near the main front door. They are the big grey plastic containers - you can't miss them! Cheers!  - Most importantly relax and enjoy your stay! RESPECT FOR NEIGHBOURS. As the apartment is very quiet, for the centre of Barcelona, or any part of Barcelona, for that matter, I ask visitors to be mindful of noise levels. ON ARRIVAL:  - There is 150€ security deposit hold with credit card.  - Late check in (21h to 9h) has an additional fee of 35 euros. - City tax not included in the price.",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "1",
+  "maximum_nights": "1125",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-03-08T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-08T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-10-06T04:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-10-23T04:00:00Z"
+  },
+  "accommodates": 6,
+  "bedrooms": 2,
+  "beds": 5,
+  "number_of_reviews": 2,
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "TV",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Heating",
+    "Washer",
+    "Dryer",
+    "Fire extinguisher",
+    "Essentials",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Private entrance",
+    "High chair",
+    "Crib",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Pocket wifi",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "Long term stays allowed",
+    "Host greets you",
+    "Paid parking on premises"
+  ],
+  "price": {
+    "$numberDecimal": "90.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "0.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "60.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "15.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "2"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/ab39f6d9-f60c-4de4-a6c5-e6008d125537.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "3911721",
+    "host_url": "https://www.airbnb.com/users/show/3911721",
+    "host_name": "Aurora",
+    "host_location": "Barcelona, Cataluña, Spain",
+    "host_about": "We are Happy Aurora and Happy Jacob!\r\nWe have 3 happy daughters, a happy Beagle and a happy fish!\r\nWe offer a wide variety of apartments ideally located in Barcelona. These apartments are perfect for your vacation! Book our apartments and, if you want, enjoy our superb cooking classes followed by a complete Spanish meal. That's a great experience!\r\nWe speak English, French, Spanish and Catalan. \r\nWe are happy because we like what we do!",
+    "host_response_time": "a few days or more",
+    "host_thumbnail_url": "https://a0.muscache.com/im/users/3911721/profile_pic/1351455748/original.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/users/3911721/profile_pic/1351455748/original.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "La Sagrada Família",
+    "host_response_rate": 44,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": 37,
+    "host_total_listings_count": 37,
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Barcelona, Catalunya, Spain",
+    "suburb": "El Poble-sec",
+    "government_area": "el Poble Sec",
+    "market": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        2.16621,
+        41.37133
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 30,
+    "availability_60": 60,
+    "availability_90": 90,
+    "availability_365": 240
+  },
+  "review_scores": {
+    "review_scores_accuracy": 9,
+    "review_scores_cleanliness": 8,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 9,
+    "review_scores_value": 8,
+    "review_scores_rating": 100
+  },
+  "reviews": []
+},{
+  "_id": "29739999",
+  "listing_url": "https://www.airbnb.com/rooms/29739999",
+  "name": "The Porto Concierge - Jazz Apartment",
+  "summary": "Practical and conveniently located 3 bedrooms flat with all amenities for a comfortable stay. Centrally located to enjoy all the city has to offer! In this apartment can sleep up to 8 people comfortably. 5 minutes walking distance to Casa da Musica metro station. Free Wifi is available on all areas of the apartment. Towels and bed Linen are provided for your stay. The Porto Concierge service available 24/7 for your convenience. Free luggage storage at The Porto Concierge - Welcome Center.",
+  "space": "",
+  "description": "Practical and conveniently located 3 bedrooms flat with all amenities for a comfortable stay. Centrally located to enjoy all the city has to offer! In this apartment can sleep up to 8 people comfortably. 5 minutes walking distance to Casa da Musica metro station. Free Wifi is available on all areas of the apartment. Towels and bed Linen are provided for your stay. The Porto Concierge service available 24/7 for your convenience. Free luggage storage at The Porto Concierge - Welcome Center.",
+  "neighborhood_overview": "",
+  "notes": "",
+  "transit": "",
+  "access": "",
+  "interaction": "",
+  "house_rules": "- Also I would like to inform that Portuguese immigration services, SEF, require that all non-portugese guests fill a form with some personal details such as passport number, nationality, etc.. This form will be sent through a certified program or given to you on the check in.",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "1125",
+  "cancellation_policy": "moderate",
+  "last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-02-16T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-11-16T05:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-02-14T05:00:00Z"
+  },
+  "accommodates": 8,
+  "bedrooms": 3,
+  "beds": 5,
+  "number_of_reviews": 8,
+  "bathrooms": {
+    "$numberDecimal": "2.5"
+  },
+  "amenities": [
+    "TV",
+    "Wifi",
+    "Kitchen",
+    "Free parking on premises",
+    "Elevator",
+    "Hot tub",
+    "Heating",
+    "Washer",
+    "Carbon monoxide detector",
+    "First aid kit",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace"
+  ],
+  "price": {
+    "$numberDecimal": "150.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "0.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "30.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "15.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "4"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/3058b67c-777b-44a2-8d4a-9b575fd2488c.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "222098996",
+    "host_url": "https://www.airbnb.com/users/show/222098996",
+    "host_name": "Robert",
+    "host_location": "PT",
+    "host_about": "",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/3c5fed5f-e38a-4dff-b7d5-f8898cbf14e2.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/3c5fed5f-e38a-4dff-b7d5-f8898cbf14e2.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "jumio",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.63069,
+        41.1599
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 13,
+    "availability_60": 31,
+    "availability_90": 56,
+    "availability_365": 320
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 9,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "349076388",
+      "date": {
+        "$date": "2018-11-16T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "20775242",
+      "reviewer_name": "Filipe",
+      "comments": "Great stay. The perfect house with the perfect service. We did a last minute booking and everything went smooth. Everything was very clean and the comunication was perfect. The house is incredibly luxorious and fully equppied. Highly recommended"
+    },
+    {
+      "_id": "349991854",
+      "date": {
+        "$date": "2018-11-18T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "22328489",
+      "reviewer_name": "Pedro Eduardo",
+      "comments": "Thanks a lot. Our family loved it"
+    },
+    {
+      "_id": "353950028",
+      "date": {
+        "$date": "2018-11-30T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "20775242",
+      "reviewer_name": "Filipe",
+      "comments": "Great stay. The perfect house with the perfect service. We did a last minute booking and everything went smooth. Everything was very clean and the comunication was perfect. The house is incredibly luxorious and fully equppied. Highly recommended"
+    },
+    {
+      "_id": "360659675",
+      "date": {
+        "$date": "2018-12-21T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "89222753",
+      "reviewer_name": "Marcio",
+      "comments": "A casa é excelente. Tudo novo e bem arrumado. Uma das melhores estadias entre todas as viagens que já utilizamos no Airbnb. Recomendo"
+    },
+    {
+      "_id": "362858422",
+      "date": {
+        "$date": "2018-12-27T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "157146353",
+      "reviewer_name": "Vamilson Jose",
+      "comments": "Apartamento novíssimo e muito confortável"
+    },
+    {
+      "_id": "368605740",
+      "date": {
+        "$date": "2019-01-07T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "226379573",
+      "reviewer_name": "Luisa M.",
+      "comments": "El apartamento es muy confortable y cómodo. Está muy bien equipado con todo lo necesario para una estancia perfecta."
+    },
+    {
+      "_id": "405561750",
+      "date": {
+        "$date": "2019-01-27T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "85656132",
+      "reviewer_name": "Ainhoa",
+      "comments": "Alojamiento fantástico,muy amplio,limpio y cómodo.\nLas camas muy confortables y la ubicación estupenda, a cinco minutos del metro y a cuatro paradas del centro.\nLa gestión de la reserva muy buena y rápidos en responder. Repetiría"
+    },
+    {
+      "_id": "411958260",
+      "date": {
+        "$date": "2019-02-14T05:00:00Z"
+      },
+      "listing_id": "29739999",
+      "reviewer_id": "96641046",
+      "reviewer_name": "Luana",
+      "comments": "O apartamento é simplesmente INCRÍVEL! Tudo novinho, extremamente limpo, moderno, organizado e belo! Boas acomodações, camas confortáveis, bom banho, cozinha equipada e sala muito aconchegante! Adoramos! Local próximo à estação de metrô que se comunica muito bem com o centro histórico do Porto e principais zonas! A área em si também é bastante atrativa! Pessoal se comunicou muito bem conosco, foram gentis e acolhedores! Luís foi um excelente anfitrião ao fazer as honras da casa e nos indicando um bom bacalhau! Só elogios! Não teria dúvidas em acomodar minha família novamente no mesmo local! Parabéns Porto Concierge!!!"
+    }
+  ]
+},{
+  "_id": "30234270",
+  "listing_url": "https://www.airbnb.com/rooms/30234270",
+  "name": "Maison Chez Maria |Large groups |Close to airport",
+  "summary": "New 2014 Montreal West Island charming house in the heart of the nature offers guest an unique quiet and comfortably place to stay. The place is fully equipped with quality appliances in an open concept kitchen. It can accommodate up to 10 adults and 2 children . The house has a high speed internet access WiFi network, smart TV with Netflix and other applications available and phone with unlimited Canada and USA calls provided.",
+  "space": "Place has a spacious living room and a kitchen with quality appliances and a generous island. The dinning table is extendable and can accommodate 8-10 persons. A powder room can be also accessed at the same level. There are 3 closed private bedrooms at the second level of the house and a large bathroom with 2 sinks. The basement has a queen size bed and a sofa bed, a gorgeous wood finished bar, a second full bathroom and quality washer and dryer machines. From the dining room there is access to a patio, terrace and private fenced backyard.",
+  "description": "New 2014 Montreal West Island charming house in the heart of the nature offers guest an unique quiet and comfortably place to stay. The place is fully equipped with quality appliances in an open concept kitchen. It can accommodate up to 10 adults and 2 children . The house has a high speed internet access WiFi network, smart TV with Netflix and other applications available and phone with unlimited Canada and USA calls provided. Place has a spacious living room and a kitchen with quality appliances and a generous island. The dinning table is extendable and can accommodate 8-10 persons. A powder room can be also accessed at the same level. There are 3 closed private bedrooms at the second level of the house and a large bathroom with 2 sinks. The basement has a queen size bed and a sofa bed, a gorgeous wood finished bar, a second full bathroom and quality washer and dryer machines. From the dining room there is access to a patio, terrace and private fenced backyard. Guest will have access",
+  "neighborhood_overview": "House is situated next to \"Bois-de-l'Île-Bizard Nature Park\" a place that will give multiple choice of nature activities due to the diverse range of ecosystems present. On the island there are 3 golf circuits: \"The Royal Montreal Golf Club\", \"Golf Saint-Raphael\" and \"Elm Ridge Country Club\".  The Royal Montreal Golf Club is the oldest golf club in North America, and the oldest in continuous existence. It was founded in Montreal in 1873 and permission was granted by Queen Victoria to use the prefix \"Royal\" in 1884. House is within 3 minutes driving distance to restaurant, gas station and supermarket area that includes groceries, pharmacy, cleaning services and fast-food.  Within 5 minutes driving you can access  2 skating rinks, Sportplexe Pierrefonds and St. Raphael Sports Complex.  Access to the train station can be made by public transit or 15 minutes driving. The airport is situated at 25 minutes driving and Montreal downtown can be accessed in approximately 40 minutes. For winter s",
+  "notes": "House is suitable for maximum 10 adults and 2 children 2-12 years old.",
+  "transit": "Public transportation is within walking distance (aprox. 7 minutes).",
+  "access": "Guest will have access to entire house except bedrooms which will be available depending on number of guests booked. Basement is considered a bedroom for 4 guests.",
+  "interaction": "I'll be available to help at any time through emails and sometime in person to ensure a very pleasant experience during guest stay at \"Maison Chez Maria\"",
+  "house_rules": "* No shoes in the house. * Quiet hours 23:00 - 07:00 per local residential code requirements.  * Kettle, toaster and coffee maker to be used at the edge of the counter top. * Smoking of any kind is not allowed in the house but can be done outside. Breach of this rule will attract a fee of 300 CAD from the deposit.  * Any kind of parties or events are not allowed and all non-paying guests must leave the property before mid-night.  Please respect our property and our neighbors. You are responsible for any disturbance coming from the unit during your stay.",
+  "property_type": "House",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "30",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-03-11T04:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-11T04:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-12-24T05:00:00Z"
+  },
+  "last_review": {
+    "$date": "2019-02-18T05:00:00Z"
+  },
+  "accommodates": 12,
+  "bedrooms": 4,
+  "beds": 6,
+  "number_of_reviews": 5,
+  "bathrooms": {
+    "$numberDecimal": "2.5"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Air conditioning",
+    "Kitchen",
+    "Free parking on premises",
+    "Heating",
+    "Washer",
+    "Dryer",
+    "Smoke detector",
+    "Carbon monoxide detector",
+    "First aid kit",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Lock on bedroom door",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Self check-in",
+    "Smart lock",
+    "Private entrance",
+    "Bathtub",
+    "Children’s books and toys",
+    "Room-darkening shades",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishwasher",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "Patio or balcony",
+    "Garden or backyard",
+    "Wide hallway clearance",
+    "Wide doorway",
+    "Well-lit path to entrance"
+  ],
+  "price": {
+    "$numberDecimal": "140.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "300.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "100.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "19.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "4"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/932fd367-e220-45c6-9db8-34b3daf84a66.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "227058755",
+    "host_url": "https://www.airbnb.com/users/show/227058755",
+    "host_name": "Chez Maria",
+    "host_location": "Montreal, Quebec, Canada",
+    "host_about": "Happy couple with two children. Love to travel, cook and enjoy the nature. ",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/98f84d82-8120-4b47-a3e2-de4e438fb556.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/user/98f84d82-8120-4b47-a3e2-de4e438fb556.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "L'Ile-Bizard",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Montreal, QC, Canada",
+    "suburb": "L'Ile-Bizard",
+    "government_area": "L'Île-Bizard-Sainte-Geneviève",
+    "market": "Montreal",
+    "country": "Canada",
+    "country_code": "CA",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.89095,
+        45.49271
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 4,
+    "availability_60": 33,
+    "availability_90": 47,
+    "availability_365": 175
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "361826882",
+      "date": {
+        "$date": "2018-12-24T05:00:00Z"
+      },
+      "listing_id": "30234270",
+      "reviewer_id": "117681090",
+      "reviewer_name": "Jason",
+      "comments": "The place was very clean and neat.  I've never an airbnb that clean.  Check in and check out was very easy.  Great experience."
+    },
+    {
+      "_id": "365694515",
+      "date": {
+        "$date": "2019-01-01T05:00:00Z"
+      },
+      "listing_id": "30234270",
+      "reviewer_id": "227926427",
+      "reviewer_name": "Naga Gopi Sainath",
+      "comments": "It’s a best place for vacation for friends and family"
+    },
+    {
+      "_id": "368303820",
+      "date": {
+        "$date": "2019-01-06T05:00:00Z"
+      },
+      "listing_id": "30234270",
+      "reviewer_id": "81987612",
+      "reviewer_name": "Rick",
+      "comments": "Highly recommend. The home is very clean and and well depicted in the AirBnB posting. It is in a quiet neighborhood with lots of parking.  The hosts were very quick to respond to any request we had. The nearby Park-nature Du Bois-de-l'ile-Bizard was a great spot for a hike."
+    },
+    {
+      "_id": "405701269",
+      "date": {
+        "$date": "2019-01-27T05:00:00Z"
+      },
+      "listing_id": "30234270",
+      "reviewer_id": "68395818",
+      "reviewer_name": "Suzie",
+      "comments": "Chez Maria is a beautiful clean house. Her and her husband made sure I had everything I needed."
+    },
+    {
+      "_id": "414000434",
+      "date": {
+        "$date": "2019-02-18T05:00:00Z"
+      },
+      "listing_id": "30234270",
+      "reviewer_id": "153637389",
+      "reviewer_name": "Joshua",
+      "comments": "A beautiful house .. very clean with all the amenities.  Every little thing has been well thought of. Maria is an amazing host and was continuously checking on our comfort throughout the period of our stay. An amazing place to stay anytime of the year"
+    }
+  ]
+},{
+  "_id": "608097",
+  "listing_url": "https://www.airbnb.com/rooms/608097",
+  "name": "Ocean & golf course views!! 3 BR/2BA Sleeps 7",
+  "summary": "Our Kona Vacation Villa is a spacious 3 bedroom (2 bath) condo offering spectacular sunset views, nearby ocean and beach access, restaurants and entertainment, art and culture. Room for the whole family with beach gear and many amenities! Since 2012 we have hosted hundreds of guests including families, couples, and business travelers. We live at our nearby Equestrian Center and continue to enjoy sharing the Kona experience with our visitors!",
+  "space": "Our spacious home on the golf course (18th tee) has fabulous views and comfortable furnishings. BBQ on your own lanai! (Unavailable in many other condos) King, Queen, 3 twins (and a futon); 3 pools on site, hot tubs, tennis and pickle ball.  Walk to beach, shopping, snorkeling & many ocean adventures! Wi-Fi, cable, XBox, large flat screen in living area, smaller in loft and 2nd bedroom.  Fully stocked kitchen for cooking & dishware for a crowd. Large dining table on lanai.  We provide boogie boards, snorkel equip., coolers, umbrella, beach bags & chairs: A LUXURY VACATION ON A FAMILY-FRIENDLY BUDGET! Beautiful lanai with fantastic ocean/sunset view, right on the 18th tee of the Kona Country Club Golf Course   Walk to Keauhou Bay and the Keauhou Shopping Center where there is a Tri-plex movie theater, an excellent grocery store with many local foods, a Saturday Farmer's Market, many great restaurants, CVS/Long's, Urgent Care and other shopping opportunities:  A VERY short drive to Kahal",
+  "description": "Our Kona Vacation Villa is a spacious 3 bedroom (2 bath) condo offering spectacular sunset views, nearby ocean and beach access, restaurants and entertainment, art and culture. Room for the whole family with beach gear and many amenities! Since 2012 we have hosted hundreds of guests including families, couples, and business travelers. We live at our nearby Equestrian Center and continue to enjoy sharing the Kona experience with our visitors! Our spacious home on the golf course (18th tee) has fabulous views and comfortable furnishings. BBQ on your own lanai! (Unavailable in many other condos) King, Queen, 3 twins (and a futon); 3 pools on site, hot tubs, tennis and pickle ball.  Walk to beach, shopping, snorkeling & many ocean adventures! Wi-Fi, cable, XBox, large flat screen in living area, smaller in loft and 2nd bedroom.  Fully stocked kitchen for cooking & dishware for a crowd. Large dining table on lanai.  We provide boogie boards, snorkel equip., coolers, umbrella, beach bags & c",
+  "neighborhood_overview": "Country Club Villas is near the south end of the Ali'i Drive (waterfront) resort district. Walking, running, and biking are very popular in this neighborhood.Being outside of \"town\"  is less crowded but with excellent access to all of Kona's activities (many available at Keauhou Bay, just across the golf course) and travel to all the Big Island adventures. Keauhou Shopping Center is a 5-minute walk and is our \"go-to\" for grocery shopping.",
+  "notes": "",
+  "transit": "Designated parking just steps from the entrance; visitor parking for additional vehicles nearby. There is a \"Kona Trolley\" system  (info in condo) that runs all of Ali'i drive and into town for additional shopping and restaurants/entertainment.",
+  "access": "You will be pleased with the spaciousness of this condo (1240 sq ft).  There are books, games, videos and beach toys for your use. Books in loft are to share and take home if you like. Living room has an assortment of books on visiting the Big Island, the Hawaii atlas, hawaiiana flora and fauna, sea life and much more!",
+  "interaction": "Cyndy and Pat live just minutes away. Cyndy has lived in Kona since 1979 and Pat since 1998. We are happy to share our experiences and local knowledge with our guests.  (At Horseplay Equestrian Center just up the mountain from the condo Cyndy teaches english riding and boards horses.)",
+  "house_rules": "10 PM to 8 AM quiet hrs",
+  "property_type": "Condominium",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "6",
+  "maximum_nights": "30",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": "2019-03-06T05:00:00Z"
+  },
+  "calendar_last_scraped": {
+    "$date": "2019-03-06T05:00:00Z"
+  },
+  "first_review": {
+    "$date": "2018-11-11T05:00:00Z"
+  },
+  "last_review": {
+    "$date": "2018-11-30T05:00:00Z"
+  },
+  "accommodates": 7,
+  "bedrooms": 3,
+  "beds": 5,
+  "number_of_reviews": 2,
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": [
+    "TV",
+    "Wifi",
+    "Pool",
+    "Kitchen",
+    "Free parking on premises",
+    "Hot tub",
+    "Washer",
+    "Dryer",
+    "Smoke detector",
+    "Fire extinguisher",
+    "Essentials",
+    "Shampoo",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Laptop friendly workspace",
+    "Self check-in",
+    "Lockbox",
+    "Private entrance",
+    "High chair",
+    "Pack ’n Play/travel crib",
+    "Game console",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishwasher",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "BBQ grill",
+    "Patio or balcony",
+    "Beach essentials",
+    "Luggage dropoff allowed",
+    "Long term stays allowed",
+    "Step-free access"
+  ],
+  "price": {
+    "$numberDecimal": "143.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "300.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "140.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "10.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "4"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/17440978-43e5-4b65-be85-cd2ecdd5fbe6.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "3013911",
+    "host_url": "https://www.airbnb.com/users/show/3013911",
+    "host_name": "Cyndy",
+    "host_location": "Holualoa, Hawaii, United States",
+    "host_about": "Kona, Hawai 32+ years.\r\nMother, grandmother, wife, friend, riding instructor. \r\nLove: reading, music, riding, silence, listening, learning...",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/f4f50cdb-781f-4c44-8af1-5f2743e34e12.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/f4f50cdb-781f-4c44-8af1-5f2743e34e12.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Kailua/Kona",
+    "host_response_rate": 100,
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": 1,
+    "host_total_listings_count": 1,
+    "host_verifications": [
+      "email",
+      "phone",
+      "facebook",
+      "jumio",
+      "offline_government_id",
+      "selfie",
+      "government_id",
+      "identity_manual"
+    ]
+  },
+  "address": {
+    "street": "Kailua-Kona, HI, United States",
+    "suburb": "Island of Hawaiʻi",
+    "government_area": "North Kona",
+    "market": "The Big Island",
+    "country": "United States",
+    "country_code": "US",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -155.9606,
+        19.56696
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": 4,
+    "availability_60": 18,
+    "availability_90": 41,
+    "availability_365": 161
+  },
+  "review_scores": {
+    "review_scores_accuracy": 10,
+    "review_scores_cleanliness": 10,
+    "review_scores_checkin": 10,
+    "review_scores_communication": 10,
+    "review_scores_location": 10,
+    "review_scores_value": 10,
+    "review_scores_rating": 100
+  },
+  "reviews": [
+    {
+      "_id": "347787283",
+      "date": {
+        "$date": "2018-11-11T05:00:00Z"
+      },
+      "listing_id": "608097",
+      "reviewer_id": "139197456",
+      "reviewer_name": "Deanna",
+      "comments": "This condo was great and Cyndy could not have been a better host! Just a short drive from grocery stores, restaurants and downtown Kona made this a great location. The view from the back balcony (overlooking the golf course) was so beautiful and a great sight to wake up to. \n\nCyndy provided all of the information we needed, as well as all kitchen necessities and food/cooking basics. Aside from the kitchen, the bathrooms had plenty of toilet paper, the closet had any towels/sheets we needed and then some. All beach towels, coolers, beach chairs, umbrellas, boogie boards and other beach/water accessories were provided and GREATLY appreciated.\n\nMake note that the condo is not air conditioned, but that is VERY common and to be expected at most places in Kona. My group was very excited about the board games, however they were definitely a bit outdated, and missing some pieces. The remotes to the ceiling fans in the living room were a bit confusing and we couldn't figure out the lights (the lamp on the side table wouldn't work) so it was a bit dark at night.\n\nAside from those very small things, this condo was so wonderful for our group and we definitely recommend it to others."
+    },
+    {
+      "_id": "354126585",
+      "date": {
+        "$date": "2018-11-30T05:00:00Z"
+      },
+      "listing_id": "608097",
+      "reviewer_id": "180735269",
+      "reviewer_name": "Erick",
+      "comments": "We couldn't have asked for a better stay! Cyndy's place was immaculate, well stocked and sparkling clean. She offered us great advise  from directions to local eateries. Her place has a fantastic view of the ocean and golf course, is close to everything yet just far enough away from the noise to enjoy a peaceful evening. Cyndy was very polite and thoughtful. Truly a 5 star host! would go back anytime"
+    }
+  ]
+}]
