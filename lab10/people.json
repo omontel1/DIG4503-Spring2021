@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "60650cc0de3750ad9ecfcbe3"
+  },
+  "firstName": "John",
+  "lastName": "",
+  "favoriteColor": ""
+},{
+  "_id": {
+    "$oid": "6065112cc287baae535569a1"
+  },
+  "firstName": "Bob",
+  "lastName": "",
+  "favoriteColor": ""
+},{
+  "_id": {
+    "$oid": "60651191636663ae714c8845"
+  },
+  "firstName": "Dave",
+  "lastName": "",
+  "favoriteColor": ""
+},{
+  "_id": {
+    "$oid": "606514e69baa60d55e0b54b3"
+  }
+},{
+  "_id": {
+    "$oid": "6065ed612f7391167e7310e7"
+  }
+},{
+  "_id": {
+    "$oid": "6065ff2c2f7391167e7310e8"
+  }
+},{
+  "_id": {
+    "$oid": "606611552f7391167e7310e9"
+  }
+},{
+  "_id": {
+    "$oid": "6066640c10010bfdcfedba56"
+  }
+},{
+  "_id": {
+    "$oid": "60667d9e680d18b2d1dc7747"
+  },
+  "firstName": "Test",
+  "lastName": "2",
+  "favoriteColor": "3"
+},{
+  "_id": {
+    "$oid": "606757b916296412708aa3eb"
+  },
+  "firstName": {
+    "first": "BoEn"
+  },
+  "lastName": {
+    "last": "Liu"
+  },
+  "favoriteColor": {
+    "color": "Blue"
+  }
+},{
+  "_id": {
+    "$oid": "606758c13601563520d1b6f7"
+  },
+  "firstName": {
+    "first": "BoEn"
+  },
+  "lastName": {
+    "last": "Liu"
+  },
+  "favoriteColor": {
+    "color": "Blue"
+  }
+},{
+  "_id": {
+    "$oid": "6067592f4c0df30cbc28af6e"
+  },
+  "firstName": "BoEn",
+  "lastName": "Liu",
+  "favoriteColor": "Blue"
+},{
+  "_id": {
+    "$oid": "6067663f64d92f05fc826556"
+  },
+  "firstName": ":Jack",
+  "lastName": ":Daniels",
+  "favoriteColor": ":brown"
+},{
+  "_id": {
+    "$oid": "6067664664d92f05fc826557"
+  },
+  "firstName": ":Jack",
+  "lastName": ":Daniels",
+  "favoriteColor": ":brown"
+},{
+  "_id": {
+    "$oid": "606766b84a4d263bc47ebc8f"
+  },
+  "firstName": ":Tyrannosaurus",
+  "lastName": ":Mullens",
+  "favoriteColor": ":green"
+},{
+  "_id": {
+    "$oid": "606766dbbb088343b88fdbbe"
+  },
+  "firstName": ":Tyrannosaurus",
+  "lastName": ":Mullens",
+  "favoriteColor": ":green"
+},{
+  "_id": {
+    "$oid": "606766fa55c5fc0c24d947f0"
+  },
+  "firstName": ":Tyrannosaurus",
+  "lastName": ":Mullens",
+  "favoriteColor": ":green"
+},{
+  "_id": {
+    "$oid": "6067673e294713428ca41c57"
+  },
+  "firstName": ":Sirius",
+  "lastName": ":Bonner",
+  "favoriteColor": ":red"
+},{
+  "_id": {
+    "$oid": "606767c12bd6a440042873d5"
+  },
+  "firstName": ":Sirius",
+  "lastName": ":Bonner",
+  "favoriteColor": ":red"
+},{
+  "_id": {
+    "$oid": "60677bdf18d4fa7ebff306ed"
+  },
+  "firstName": null,
+  "lastName": null,
+  "favoriteColor": null
+},{
+  "_id": {
+    "$oid": "606788ef5ac2239669a5e161"
+  },
+  "firstName": null,
+  "lastName": null,
+  "favoriteColor": null
+},{
+  "_id": {
+    "$oid": "6067891a5ac2239669a5e162"
+  },
+  "firstName": null,
+  "lastName": null,
+  "favoriteColor": null
+},{
+  "_id": {
+    "$oid": "606789b75ac2239669a5e163"
+  },
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "favoriteColor": "Red"
+},{
+  "_id": {
+    "$oid": "606789eb5ac2239669a5e164"
+  },
+  "firstName": null,
+  "lastName": null,
+  "favoriteColor": null
+},{
+  "_id": {
+    "$oid": "60678aa363ee4399bd70fc1d"
+  },
+  "firstName": null,
+  "lastName": null,
+  "favoriteColor": null
+},{
+  "_id": {
+    "$oid": "60678b0a63ee4399bd70fc1e"
+  },
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "favoriteColor": "Red"
+},{
+  "_id": {
+    "$oid": "60678b64ca1ecf9b1b9b7eba"
+  },
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "favoriteColor": "Red"
+},{
+  "_id": {
+    "$oid": "60678bcaa0e73d9bcd266134"
+  },
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "favoriteColor": "Red"
+},{
+  "_id": {
+    "$oid": "60678bff676a789c39a82eb5"
+  },
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "favoriteColor": "Red"
+},{
+  "_id": {
+    "$oid": "60678d29f97c569dfbfc9fe7"
+  },
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "favoriteColor": "Red"
+},{
+  "_id": {
+    "$oid": "6067b6d3baf4a7bb3d106a07"
+  }
+},{
+  "_id": {
+    "$oid": "6067b927baf4a7bb3d106a08"
+  },
+  "firstName": "Samantha",
+  "lastName": "Farls",
+  "favoriteColor": "red"
+},{
+  "_id": {
+    "$oid": "6067e6dc52030d5fb5f1222d"
+  },
+  "firstName": "Chris",
+  "lastName": "Jones",
+  "favoriteColor": "#000000"
+},{
+  "_id": {
+    "$oid": "6067ea1c6eb6945ffbed931b"
+  },
+  "firstName": "Chris",
+  "lastName": "Jones",
+  "favoriteColor": "#000000"
+},{
+  "_id": {
+    "$oid": "6068a92facf9a9001dbfcb97"
+  }
+},{
+  "_id": {
+    "$oid": "6068c8e868af533c14a25ee5"
+  },
+  "firstName": "Lebron",
+  "lastName": "James",
+  "favoriteColor": "Blue"
+}]
