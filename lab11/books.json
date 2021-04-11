@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6070dbd29872f33ef90f6457"
+  },
+  "title": null,
+  "author": null,
+  "description": null,
+  "isbn": ":ISBN"
+},{
+  "_id": {
+    "$oid": "6070dc849872f33ef90f6458"
+  },
+  "title": null,
+  "author": null,
+  "description": null,
+  "isbn": "9780553109535"
+},{
+  "_id": {
+    "$oid": "6071d64c8b11f344c7ad1908"
+  },
+  "title": "Percy Jackson and the Olympians, the Lighting Thief",
+  "author": "Rick Riordan",
+  "description": "American fantasy-adventure novel based on Greek mythology",
+  "isbn": ":ISBN"
+},{
+  "_id": {
+    "$oid": "6071de74e2f54d3f57c27437"
+  },
+  "title": "Percy Jackson and The Olympians, the Lighting Thief",
+  "author": "Rick Riordan",
+  "description": "American fantasy-adventure novel based on Greek Mythology",
+  "isbn": "9780553109535"
+},{
+  "_id": {
+    "$oid": "6071dfa39a4f4c249411ee97"
+  },
+  "ISBN": "9780441013593",
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "description": "good book"
+},{
+  "_id": {
+    "$oid": "6072007906c84d27a731dba8"
+  },
+  "ISBN": "12345",
+  "title": "some book",
+  "author": "some dude",
+  "description": "exciting book"
+},{
+  "_id": {
+    "$oid": "60720be414ca6434489ecd4a"
+  },
+  "ISBN": "0785134816",
+  "title": "Daredevil: Born Again",
+  "author": "Frank Miller",
+  "description": "Matt Murdock's personal life and career spiral out of control after the Kingpin learns his secret identity as Daredevil"
+},{
+  "_id": {
+    "$oid": "607212d7e2f54d3f57c27438"
+  },
+  "title": "Lola",
+  "author": null,
+  "description": null,
+  "ISBN": "33157"
+},{
+  "_id": {
+    "$oid": "607229651c7da60c80caaa62"
+  },
+  "ISBN": "9781401263119",
+  "title": "Batman: The Dark Knight Returns",
+  "author": "Frank Miller",
+  "description": "Can Batman and Robin deal with the threat posed by their deadliest enemies?"
+}]
