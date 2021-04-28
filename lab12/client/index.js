@@ -1,16 +1,55 @@
 import Axios from 'axios';
+import {useState} from 'react';
 
-async function sendPutRequest() {
+function GetBook() {
 
-    const response = await Axios.put(
-        "http://localhost:45030/example",
-        {
-                firstName: "Omar",
-                lastName: "Montelongo"
-        }
+    const[ISBN, setISBN] = useState("");
+    const[title, setTitle] = useState("");
+    const[author, setAuthor] = useState("");
+    const[description, setDescription] = useState("");
+
+    const getBook = async() => {
+        const response = await Axios.get("http://localhost:45030/books/" + ISBN, {
+            title: title,
+            author: author,
+            description: description,
+        
+        });
+
+        console.log(response.data);
+    }
+
+    return (
+        <div><p>Search All</p>
+            <input
+                type= "text"
+                placeholder= "ISBN"
+                value= {ISBN}
+                onChange= {(event) => setISBN(event.target.value)}
+            />
+            <input
+                type= "text"
+                placeholder= "Title"
+                value= {title}
+                onChange= {(event) => setTitle(event.target.value)}
+            />
+            <input
+                type= "text"
+                placeholder= "Author"
+                value= {author}
+                onChange= {(event) => setAuthor(event.target.value)}
+            />
+            <input
+                type= "text"
+                placeholder= "Description"
+                value= {description}
+                onChange= {(event) => setDescription(event.target.value)}
+            />
+            <p>Click Here</p>
+                <button onClick = {() => {getBook()}}>Click</button>
+        </div>
+    
     );
-
-    console.log(response.data);
 }
 
-sendPutRequest();
+export default GetBook;

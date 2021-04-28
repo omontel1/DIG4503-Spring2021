@@ -6,7 +6,7 @@ class Database {
     constructor() {
         this.connection = null;
         this.database = null;
-        this.connection = null;
+        this.collection = null;
     }
 
     async connect(database, collection) {
@@ -15,62 +15,70 @@ class Database {
         this.collection = this.database.collection(collection);
     }
 
-    close() {
-        if(this.connection !=null) {
-            this.connection.close();
-        }
-    }
-
-    async create(document) {
-        let createdResult = null;
-
-        if(this.collection != null) {
-            createdResult = await this.collection.insertOne(document);
-        }
-
-        return createdResult;
-    }
-
-    async readOne(query) {
-        let foundDocument = null;
-
+    async createOne(ISBN, title, author, description) {
         if(this.collection !=null) {
-            foundDocument = await this.collection.findOne(query)
-        }
+            const result = await this.collection.insertOne({
+               "ISBN":ISBN,
+                "title":title,
+                "author":author,
+                "description":description
+            });
 
-        return foundDocument;
+            return result;
+        }
     }
 
-    async readMany(query) {
-        let foundDocuments = null;
+    async readOne(ISBN) {
+        if (this.collection != null){
+            const result = await this.collection.findOne({
+                "ISBN": ISBN
+            })
+                if(result != null){
+                    return result;
+                }else{
+                    return{ISBN: "Not Found"}
+            }
+        }
+    }
 
-        if(this.collection !=null) {
+    async readMany(ISBN, title, author, description) {
+        let books = ("");
+
+        if(ISBN != null) {
             foundDocument = await this.collection.find(query).toArray();
         } 
 
-        return foundDocuments;
+        return {books};
     }
 
-    async update(query, update) {
-        let updateResult = null;
-
+    async updateOne(ISBN, author, title, description) {
+    
         if(this.collection !=null) {
-            updateResult = await this.collection.updateOne(query, {$set: update})
-        }
+            const result = await this.collection.updateOne({"ISB": ISBN}, {$set: {"title": title, "author": author, "description": description}});
 
-        return updatedResult;
+            return{"title": title, "author": author, "description": description};
+
+        }else{
+
+            return null;
+        }
     }
 
-    async delete(query) {
-        let deletedResult = null;
-
+    async deleteOne(ISBN) {
         if(this.collection !=null) {
-            deletedResult = await this.collection.deleteOne(query);
-        }
+            const result = await this.collection.deleteOne({"ISBN": ISBN});
+                return{"ISBN": result.deletedCount};
 
-        return deletedResult;
+        }else{
+                
+                return {"ISBN": 0};
     }
 }
+    close(){
+        if(this.collection !=null) {
+            this.collection.close();
+        }
+    }
+};
 
 export default Database;
-

@@ -1,36 +1,53 @@
 import Express from 'express';
-import Database from 'Database.js';
+import Database from './Database.js';
+import CORS from 'cors';
 
 const App = Express();
 const port = 45030;
 App.use(Express.json());
+App.use(CORS());
 
-const d = new Database();
+const db = new Database();
 
-d.connect();
+d.connect("lab11", "books");
 
-App.put("/path/:parameter", (req, res) => {});
+App.put("/books/:ISBN", async (req, res) => {
+    const title = req.body.title;
+    const author = req.body.author;
+    const description = req.body.description;
+    const result = await db.createdOne(ISBN, title, author, description);
+        res.json(result);
 
-App.get("/path/:parameter", (req, res) => {});
+});
 
-App.post("/path/controller", (req, res) => {});
+App.get("/books/:ISBN", async (req, res) => {
+    const ISBN = req.params.ISBN;
+    const result = await db.readOne(ISBN);
+        res.json(result);
 
-App.patch("/teams/:team", (req, res) => {});
+});
 
-App.delete("/teams/:team", (req, res) => {});
+App.post("/books/search", async (req, res) => {
+    const ISBN = req.query.ISBN;
+
+});
+
+App.patch("/books/:ISBN", async (req, res) => {
+    const ISBN = req.params.ISBN;
+    const title = req.body.title;
+    const author = req.author.title;
+    const description = req.body.description;
+    const result = await db.updatedOne(ISBN, title, author, description);
+        res.json(result);
+
+});
+
+App.delete("/books/:ISBN", async (req, res) => {
+    const ISBN = req.params.ISBN;
+    const result = await db.deleteOne(ISBN);
+        res.json(result);
+});
 
 App.listen(port);
-
-App.delete("/path/:request", async (req, res) => {
-    const request = req.params.request;
-
-    let response = {"deleted": 0};
-
-    const result = await d.deleteOne({"field": request});
-
-    if(result != null) {
-        response.deleted = result.deletedCount;
-    }
-
-    res.json(response)
-});
+    
+    console.log("Server running!");
