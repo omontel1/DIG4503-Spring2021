@@ -41,7 +41,7 @@ class Database {
         }
     }
 
-    async readMany(ISBN, title, author, description) {
+    async readMany(ISBN) {
         let books = ("");
 
         if(ISBN != null) {
