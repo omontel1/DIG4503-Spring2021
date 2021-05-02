@@ -44,15 +44,17 @@ return (
     <h2>ABOUT US</h2>
     
     <br></br>
-    <li>The Horror VHS Tapes Collection is an independently owned champion of the horror genre, established in 2021.</li>
+        <li>The Horror VHS Tapes Collection is an independently owned champion of the horror genre, established in 2021.</li>
     <br></br>
-    <li>Got a tip? Want to advertise with us? <Link>Contact us here.</Link></li>
+        <li>Got a tip? Want to advertise with us? <Link>Contact us here.</Link></li>
     <br></br>
-    <li>Looking to contribute to our horror movie collection? Please contact <Link>Omar Montelongo / Managing Editor</Link></li>
+        <li>Looking to contribute to our horror movie collection? Please contact <Link>Omar Montelongo / Managing Editor</Link></li>
     <br></br> 
-    <li><Link to="/User Page">Sign Up for Our Newsletter!</Link></li>
+        <li><Link to="/User Page">Sign Up for Our Newsletter!</Link></li>
     <br></br>
-    <img src="https://i.pinimg.com/originals/fe/9b/d1/fe9bd12c5ed2420cd93772c6ef3ec99d.gif" />
+    <center>
+        <img src="https://i.pinimg.com/originals/fe/9b/d1/fe9bd12c5ed2420cd93772c6ef3ec99d.gif" />
+    </center>
     </p>
     </div>
     );
